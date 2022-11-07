@@ -1,0 +1,72 @@
+country
+USA                               3046
+UK                                 549
+France                             334
+Germany                            166
+Canada                             131
+Italy                              120
+Japan                               81
+Australia                           67
+Spain                               53
+Ireland                             40
+Hong Kong                           31
+Belgium                             30
+West Germany                        28
+Switzerland                         24
+Netherlands                         23
+China                               18
+Mexico                              17
+New Zealand                         17
+Sweden                              16
+Argentina                           13
+Denmark                             12
+Austria                             12
+India                               11
+Norway                              10
+Hungary                             10
+Poland                               8
+Luxembourg                           8
+Portugal                             8
+South Africa                         8
+Russia                               7
+Brazil                               7
+Iran                                 7
+Taiwan                               6
+Soviet Union                         6
+Finland                              6
+Czech Republic                       6
+Cuba                                 5
+Israel                               5
+Greece                               4
+Federal Republic of Yugoslavia       4
+Yugoslavia                           4
+Iceland                              3
+Tunisia                              3
+Peru                                 3
+Ukraine                              3
+Republic of Macedonia                3
+Bulgaria                             3
+Vietnam                              2
+South Korea                          2
+Botswana                             2
+Jamaica                              2
+Romania                              2
+Dominican Republic                   2
+Turkey                               2
+Philippines                          2
+Venezuela                            1
+Algeria                              1
+Slovenia                             1
+Senegal                              1
+Liechtenstein                        1
+Lebanon                              1
+Kazakhstan                           1
+Georgia                              1
+Czechoslovakia                       1
+Croatia                              1
+Chile                                1
+Cameroon                             1
+Bhutan                               1
+Aruba                                1
+Zaire                                1
+dtype: int64
