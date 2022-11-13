@@ -1,0 +1,3420 @@
+tur          isim                         
+0            Alfieri, Giulio                  1
+             Bardem, Rafael (I)               1
+             Battista, John (I)               1
+             Baumann, Heinz (I)               1
+             Berkey, Daniel Martin            1
+             Bielawski, Zygmunt               1
+             Caen, Herb                       1
+             Cámara, Arturo                   1
+             Durelli, Annibale                1
+             Haneke, Michael                  1
+             Jones, Gillian (I)               1
+             Keller, H.U.                     1
+             Li, Tianji                       1
+Action       Adamson, Christopher (I)         5
+             Abraham, F. Murray               4
+             Ackland, Joss                    4
+             Antico, Pete                     4
+             Apisa, Robert                    4
+             Abercrombie, Ian                 3
+             Atherton, William                3
+             Aykroyd, Dan                     3
+             Borgnine, Ernest                 3
+             Abascal, Paul                    2
+             Acheson, Mark                    2
+             Adams, Arthur (I)                2
+             Adejugbe, Ayo                    2
+             Afshar, Ali                      2
+             Agee, Timothy Dale               2
+             Ahmed, Ahmed                     2
+             Akahoshi, Steve                  2
+             Akrawi, Mike                     2
+             Alaimo, Marc                     2
+             Alba, Jaime (I)                  2
+             Albert, Eddie (I)                2
+             Aleong, Aki                      2
+             Alexander, Jace                  2
+             Allen, LeRoy                     2
+             Allen, Todd (I)                  2
+             Amatrudo, Ed                     2
+             Anderson, Stanley                2
+             Andreu, Simón                    2
+             Archer, Wayne                    2
+             Armstrong, Alun                  2
+             Armstrong, R.G.                  2
+             Atkins, Tom (I)                  2
+             Auberjonois, Rene                2
+             Axelrod, Robert (I)              2
+             Bacarella, Mike                  2
+             Baker, Kenny (I)                 2
+             Bartold, Norman                  2
+             Beatty, Robert (I)               2
+             Benrubi, Abraham                 2
+             Berenger, Tom                    2
+             Biehn, Michael                   2
+             Blicker, Jason                   2
+             Capodice, John                   2
+             Aarniokoski, Douglas             1
+             Aaron, Victor (I)                1
+             Aarons, Allan                    1
+             Abadia, Oscar                    1
+             Abbott, Dalton                   1
+             Abbott, David (I)                1
+             Abdala, José                     1
+             Abdellatif, Hilal                1
+             Abdillah, Shion                  1
+             Abdul-Jabbar, Kareem (I)         1
+             Abe, Hiroshi (I)                 1
+             Abed-Alnour, Youssef             1
+             Abi-Ad, Joseph                   1
+             Aboulela, Amir                   1
+             Abounouom, Ahmed                 1
+             Aboutboul, Alon                  1
+             Abraham, Cesar                   1
+             Abraham, Falconer                1
+             Abrahams, Charlie                1
+             Abrahams, Irving                 1
+             Abrahamson, Peter                1
+             Abrams, Solomon                  1
+             Abramson, Stuart                 1
+             Abrego, Fidel                    1
+             Accioly, Nilson                  1
+             Accolas, Raymond                 1
+             Acevedo, Kirk                    1
+             Achara, Basile                   1
+             Acheson, James (II)              1
+             Acimovic, Dejan                  1
+             Ackerman, Robert (I)             1
+             Ackler, Joseph                   1
+             Ackridge, Bill                   1
+             Ackroyd, Jack (II)               1
+             Acosta, Eric (II)                1
+             Acosta, Manuel                   1
+             Acovone, Jay                     1
+             Acres, Graham                    1
+             Adair-Rios, Mark                 1
+             Adam, Ronald                     1
+             Adams Jr., Quincy                1
+             Adams, Cedric (I)                1
+             Adams, Dave (I)                  1
+             Adams, Don (I)                   1
+             Adams, Donald (I)                1
+             Adams, Joshua A.                 1
+             Adams, Lloyd                     1
+             Adams, Mark (XIII)               1
+             Adams, Mason (I)                 1
+             Adams, Phil (I)                  1
+             Adams, Timothy (I)               1
+             Adcox-Hernandez, Thom            1
+             Addis, Keith                     1
+             Addison, Bernard (I)             1
+             Addy, Mark                       1
+             Addy, Wesley                     1
+             Adedunyo, Obaka                  1
+             Adelman, Jason (I)               1
+             Adem, Yashaw                     1
+             Adler, Bill (I)                  1
+             Adler, Matt                      1
+             Adonis, Frank                    1
+             Adorf, Mario                     1
+             Adrian, Walter                   1
+             Affleck, Ben                     1
+             Afifi, Mohammed (I)              1
+             Agajanian Jr., J.C.              1
+             Agashe, Mohan                    1
+             Agirre, Ramón                    1
+             Aguayo, Richard Todd             1
+             Aguilar, G.A.                    1
+             Aguirre, Sergio (I)              1
+             Ah Mon, Lawrence                 1
+             Ahl, Michael                     1
+             Ahlers, David Ozzie              1
+             Ahlurlia, Jason                  1
+             Ahmadai, Obaid                   1
+             Ahumada, Alfredo                 1
+             Aidman, Charles                  1
+             Aiken, Liam                      1
+             Aiken, Loclann                   1
+             Akerstream, Marc                 1
+             Akin, Philip                     1
+             Akins, Claude                    1
+             Akitsu, Hiroshi (I)              1
+             Al-Khan, Ahmed                   1
+             Alan, Eric (I)                   1
+             Alan, James                      1
+             Alaniz, Rico                     1
+             Albasiny, John                   1
+             Albert, Andrew (I)               1
+             Albertson, Jack                  1
+             Alda, Alan                       1
+             Alden, Andrew (I)                1
+             Alden, Norman                    1
+             Aldridge, Bobby                  1
+             Alejan, Sam                      1
+             Ales, John                       1
+             Alexander, Bruce (I)             1
+             Alexander, Flex (I)              1
+             Alexander, John (II)             1
+             Alexander, Keith (I)             1
+             Alexander, Leo                   1
+             Alexander, Newell (I)            1
+             Alexander, Shane (I)             1
+             Alexsen, Andre                   1
+             Alford, Guy                      1
+             Alford, Les                      1
+             Allan, Chick                     1
+             Allan, Isaac                     1
+             Alldredge, Michael               1
+             Allen, Frederick (II)            1
+             Allen, Irvin                     1
+             Allen, Mark S.                   1
+             Allen, Mel (I)                   1
+             Allen, Patrick (I)               1
+             Allen, Phil (I)                  1
+             Allen, Phillip R.                1
+             Allen, Ronald                    1
+             Allen, Scott (II)                1
+             Allen, Tyrees                    1
+             Allendorfer, John                1
+             Allman, Ross                     1
+             Allport, Chris M.                1
+             Allyn, Rob (I)                   1
+             Alper, Murray                    1
+             Alston, Hakim                    1
+             Altamirano, Pedro                1
+             Altamura, John                   1
+             Altes, Steve                     1
+             Altman, Mark A.                  1
+             Alton, Kenneth                   1
+             Alvarado, David (I)              1
+             Amada, Masuo                     1
+             Amador, Andrew                   1
+             Amamoto, Hideyo                  1
+             Amandes, Tom                     1
+             Amerson, Albert                  1
+             Ames, Granville                  1
+             Amidou                           1
+             Amodei, Joseph (I)               1
+             Amundsen, Tom                    1
+             Andersen, Scott (I)              1
+             Anderson Jr., Michael            1
+             Anderson, Angry                  1
+             Anderson, Anthony (I)            1
+             Anderson, Axel                   1
+             Anderson, Azikiwee               1
+             Anderson, Bart (I)               1
+             Anderson, Brent (I)              1
+             Anderson, Clive (III)            1
+             Anderson, Deke                   1
+             Anderson, Erich (I)              1
+             Anderson, Nathan (I)             1
+             Anderson, Ric                    1
+             Anderson, Richard (I)            1
+             Anderson, Thomas (II)            1
+             Anderson, Todd (I)               1
+             Anderson, Tracy (I)              1
+             Anderson-Gunter, Jeffrey         1
+             Andosca, Rick                    1
+             Andrade, Carlos (I)              1
+             Andrade, Eduardo N.T.            1
+             Andre, Charles (II)              1
+             Andrews, Dana (I)                1
+             Andrews, Jason (I)               1
+             Andrews, Mac                     1
+             Andrews, Tod (I)                 1
+             Andronica, James                 1
+             Angel, Jack (I)                  1
+             Angelis, Paul                    1
+             Angiolini, Steven                1
+             Anglade, Jean-Hugues             1
+             Anh, Vo Trung                    1
+             Anker, Jack                      1
+             Ankrum, David                    1
+             Anselmo, Robert M.               1
+             Anthony, Eugene J.               1
+             Anthony, Gerald                  1
+             Anthony, Lee (I)                 1
+             Anthony, Marc (I)                1
+             Antonio, Jim                     1
+             Antunes, Nuno (I)                1
+             Appel, Peter                     1
+             Appleby, Noel                    1
+             Applegate, Royce D.              1
+             Arahanga, Julian                 1
+             Arana, Tomas                     1
+             Aranguiz, Manuel                 1
+             Arau, Alfonso                    1
+             Arbez, Nicholas                  1
+             Archer, John (I)                 1
+             Archerd, Army                    1
+             Archie, John                     1
+             Arden, Robert (I)                1
+             Argent, Maurice                  1
+             Argenziano, Carmen               1
+             Argo, Victor                     1
+             Argue, David                     1
+             Aris, Jonathan                   1
+             Arishima, Ichirô                 1
+             Arkin, Alan                      1
+             Arlen, Richard                   1
+             Armas, Adrian                    1
+             Armatrading, Tony                1
+             Armendáriz Jr., Pedro            1
+             Armendáriz, Pedro                1
+             Armstrong, Alexander             1
+             Armstrong, Chris (I)             1
+             Armstrong, Ray (II)              1
+             Arndt, Denis                     1
+             Arney, Randall                   1
+             Arno, Sig                        1
+             Arnold, Brian (I)                1
+             Arnold, John (IV)                1
+             Arnold, Tom (I)                  1
+             Arnold, Victor (II)              1
+             Aronson, Steve (I)               1
+             Arrington, Brad                  1
+             Arroyo, Danny                    1
+             Arthur, Brett (II)               1
+             Asbell, Kevin                    1
+             Ash, Rick (II)                   1
+             Asher, John (I)                  1
+             Ashford, Matthew (I)             1
+             Ashley, Kurek                    1
+             Ashley, Mike (II)                1
+             Ashmore, Shawn                   1
+             Ashton, John (I)                 1
+             Ashton-Griffiths, Roger          1
+             Aslan, Grégoire                  1
+             Asner, Edward                    1
+             Asparagus, Fred                  1
+             Astaire, Fred                    1
+             Atanasoff, Peter                 1
+             Atkins, Peter (I)                1
+             Au, Man Leong                    1
+             Au-Yeung, Bobbie                 1
+             Aubert, Christian (I)            1
+             Aubry, Darius                    1
+             Auer, Mischa                     1
+             Augustus, Sherman                1
+             Aung                             1
+             Aurelius, Marcus (I)             1
+             Austin, Ned                      1
+             Austin, Paul (I)                 1
+             Avery, Rick                      1
+             Azizi, Rahi                      1
+             Baca, Jimmy Santiago             1
+             Bacharach, Burt                  1
+             Bacik, Boris                     1
+             Backhurst, Don (I)               1
+             Bacon, Kevin (I)                 1
+             Bahúl, Milan                     1
+             Baier, Robert (I)                1
+             Baigent, Harold                  1
+             Bailey, Bill (II)                1
+             Bailey, Charles (II)             1
+             Bailey, Tom (II)                 1
+             Bailey-Gates, Charles            1
+             Bain, Conrad                     1
+             Bairstow, Scott                  1
+             Baity, Scott                     1
+             Bajenski, Len                    1
+             Baker, Bubba                     1
+             Baker, Del (I)                   1
+             Baker, Joby                      1
+             Baker, Joe Don                   1
+             Baker, Stanley (I)               1
+             Baker, Todd (I)                  1
+             Bakey, Ed                        1
+             Baldwin, A. Michael              1
+             Baldwin, Alec                    1
+             Baldwin, Ken (I)                 1
+             Ball, Vincent (I)                1
+             Balsam, Martin                   1
+             Baltz, Kirk                      1
+             Bancroft, Bradford               1
+             Banks, Jonathan                  1
+             Banks, Peter (I)                 1
+             Bannon, Jim (I)                  1
+             Baptiste, Thomas                 1
+             Barba, Norberto                  1
+             Barboo, Luis                     1
+             Barker, Abe                      1
+             Barker, Don (I)                  1
+             Barkwill, Scott                  1
+             Barlow, Ray                      1
+             Barnabe, Bruno                   1
+             Barnard, Ivor                    1
+             Barndt, Perry                    1
+             Barnes, Walter (I)               1
+             Barnett, Craig (I)               1
+             Barnett, Robbie                  1
+             Barnett, Slade                   1
+             Barnett, Tom (I)                 1
+             Barquet, Xavier                  1
+             Barringer, Daniel W.             1
+             Barrington, Marcus               1
+             Barry, Gene                      1
+             Barry, Ivor                      1
+             Barry, Matthew (I)               1
+             Bartel, Paul (I)                 1
+             Barth, Roger                     1
+             Bartlett, Cal                    1
+             Bartlett, Philip                 1
+             Bartley, Jim                     1
+             Barton, Dan (II)                 1
+             Barton, Gregg                    1
+             Barty, Billy                     1
+             Bass, Bobby                      1
+             Bassanoff, Toula                 1
+             Bastens, Robert                  1
+             Battuello, Cliff                 1
+             Bau, C.J.                        1
+             Baum, Van                        1
+             Beam, Christopher (I)            1
+             Bearden, W.S.                    1
+             Becerril, Jorge                  1
+             Beckel, Graham                   1
+             Beckwith, Reginald               1
+             Bedoya, Alfonso                  1
+             Bee, Kenny                       1
+             Begg, Jim                        1
+             Beghe, Jason                     1
+             Beiser, Brendan                  1
+             Belhadi, Jamal                   1
+             Bell, Bobby (I)                  1
+             Bell, Marshall                   1
+             Bell, Nicholas (I)               1
+             Bell, Tobin                      1
+             Bello, Alex M.                   1
+             Bemis, Cliff                     1
+             Benabiles, M.                    1
+             Bennes, John                     1
+             Bennett, Harve                   1
+             Bennett, Jeff (I)                1
+             Benson, Martin (I)               1
+             Bergin, John (I)                 1
+             Bergmann, Alan                   1
+             Berk, Barry                      1
+             Berkoff, Steven                  1
+             Berns, Gerald                    1
+             Berry, Christopher (IV)          1
+             Berry, Mark (I)                  1
+             Berry, Tom (I)                   1
+             Bertignac, Louis                 1
+             Besher, Chuk                     1
+             Betts, Jack                      1
+             Bibic, Vladimir (I)              1
+             Bidwell, Richard                 1
+             Big Yank                         1
+             Bill, Bushwick                   1
+             Binion, Crawford                 1
+             Binns, Edward                    1
+             Blaazer, Louis                   1
+             Blake, Geoffrey                  1
+             Bland, John David                1
+             Blech, Hans Christian            1
+             Bleibtreu, Moritz                1
+             Bleifer, John                    1
+             Blomqvist, Markku                1
+             Bloom, John (III)                1
+             Blum, Steve (IX)                 1
+             Bluto, John                      1
+             Blynn, Jeff                      1
+             Bofshever, Michael               1
+             Boggs, Holt                      1
+             Bolender, Bill                   1
+             Bond, Rudy                       1
+             Bonehill, Richard                1
+             Bones, Ken                       1
+             Bookwalter, DeVeren              1
+             Boon, Ed                         1
+             Boone Junior, Mark               1
+             Borkowski, Andrzej (I)           1
+             Bosch, Johnny Yong               1
+             Boston, Philip (I)               1
+             Boucher, Philip                  1
+             Bourin, Richard                  1
+             Bower, Stone                     1
+             Bower, Tom (I)                   1
+             Boyd, Stephen (I)                1
+             Boyle, Peter (I)                 1
+             Bradley, Harold (I)              1
+             Bradley, Leslie (I)              1
+             Brady, Randall                   1
+             Braeden, Eric (I)                1
+             Branch, Tom (I)                  1
+             Brandenburg, Larry               1
+             Brando, Marlon                   1
+             Brauss, Arthur                   1
+             Breuer, Jim                      1
+             Broadbent, Jim                   1
+             Bronson, Charles (I)             1
+             Brooks, Avery (I)                1
+             Brown, Alfred (I)                1
+             Brown, Earl Jolly                1
+             Brown, Jim (I)                   1
+             Brown, Jophery C.                1
+             Bryant, William (I)              1
+             Bryniarski, Andrew               1
+             Buhr, Gavin                      1
+             Bullet (VII)                     1
+             Bush, Curtis                     1
+             Butrick, Merritt                 1
+             Bux, Ishaq                       1
+             Caan, James (I)                  1
+             Caballero, Joseph Luis           1
+             Cantu, David (III)               1
+             Cary, Christopher                1
+             Castell, Mattia                  1
+             Cham, Siu Hung                   1
+             Chan, Anthony (I)                1
+             Chan, Dennis (I)                 1
+             Chan, Jackie (I)                 1
+             Charles, Josh (I)                1
+             Chaykin, Maury                   1
+             Chen, Yao Lin                    1
+             Cheung, George                   1
+             Cheung, Jacky (I)                1
+             Chi, Yi-Hsiung                   1
+             Chipalu, Govind                  1
+             Chong, Wes                       1
+             Chow, David (I)                  1
+             Chow, Yun-Fat                    1
+             Cimino, Leonardo                 1
+             Cobelli, Giancarlo               1
+             Cooper, Melville                 1
+             Cristos                          1
+             Davis, Darrell (I)               1
+             Dixon, Tim (I)                   1
+             Ehara, Tatsuyoshi                1
+             Fox, Edward (I)                  1
+             Hall, Henry (I)                  1
+             Horino, Tad                      1
+             Musaka, Naomasa                  1
+             de Jager, Nic                    1
+Adult        Anderson, Steven (II)            1
+             Edwards, Eric (II)               1
+             Fernando, Don (I)                1
+Adventure    Angel, Jack (I)                  5
+             Alexander, Jason (I)             3
+             Allen, Rex (I)                   3
+             Allen, Tim (I)                   3
+             Allwine, Wayne                   3
+             Ackland, Joss                    2
+             Adler, Charles (I)               2
+             Adler, Matt                      2
+             Akin, Philip                     2
+             Albert, Eddie (I)                2
+             Armstrong, Alun                  2
+             Armstrong, Robert (I)            2
+             Attenborough, Richard            2
+             Aykroyd, Dan                     2
+             Bartha, John                     2
+             Barty, Billy                     2
+             Buttram, Pat (I)                 2
+             Connery, Sean                    2
+             Abbott, Jamie (I)                1
+             Abbott, John (I)                 1
+             Abbott, Mark (I)                 1
+             Able, Albert                     1
+             Abraham, F. Murray               1
+             Abrahams, Doug                   1
+             Aceves Castañeda, Luis           1
+             Acheson, Mark                    1
+             Acimovic, Dejan                  1
+             Ackroyd, Jack (II)               1
+             Adams, Ed (I)                    1
+             Adams, Jeb Stuart                1
+             Adams, Phil (I)                  1
+             Adams, Rick (III)                1
+             Adams, Tom (I)                   1
+             Adamson, 'J.J.' Joseph Otieno    1
+             Addie, Robert                    1
+             Adejugbe, Ayo                    1
+             Adric, Daniel                    1
+             Affleck, Ben                     1
+             Affleck, Rab                     1
+             Afifi, Mohammed (I)              1
+             Agar, John                       1
+             Agarwal, Anirudh                 1
+             Agee                             1
+             Agosto, William                  1
+             Aguilar, George (I)              1
+             Ahn, Philip                      1
+             Aiken, Liam                      1
+             Ainge, Danny                     1
+             Airlie, Andrew                   1
+             Akey, William                    1
+             Akins, Charles (I)               1
+             Aklin, Will                      1
+             Al, Big (I)                      1
+             Al-Hamd, Ismael                  1
+             Alameda, Richard                 1
+             Alatis, Tony                     1
+             Alazraqui, Carlos                1
+             Albee, Josh                      1
+             Albertson, Jack                  1
+             Alden, Norman                    1
+             Alder, Don                       1
+             Alderson, Erville                1
+             Alderson, John (I)               1
+             Aldridge, Michael                1
+             Alexander, Clair D.              1
+             Alexander, John (II)             1
+             Alexander, Newell (I)            1
+             Allan, Richard (I)               1
+             Allan, Roger (I)                 1
+             Allen, Kenneth S.                1
+             Allen, Robert (VI)               1
+             Allen, Woody                     1
+             Allison, Drew (I)                1
+             Allred, Corbin                   1
+             Allsberry, David                 1
+             Altman, Norman                   1
+             Alto, Bobby                      1
+             Amateau, J.P. (I)                1
+             Ameche, Don                      1
+             Amendola, Claudio                1
+             Amiel, Jean-Pierre               1
+             Amritraj, Vijay                  1
+             Amundsen, Tom                    1
+             Anastasio, Chris                 1
+             Anderson Jr., Michael            1
+             Anderson, Clive (II)             1
+             Anderson, David (I)              1
+             Anderson, Miles (I)              1
+             Anderson, Warner                 1
+             Andreiuci, Freddy                1
+             Andrews, Jeffrey (I)             1
+             Andriani, Oscar                  1
+             André the Giant                  1
+             Anello, Gary                     1
+             Angelis, Paul                    1
+             Angus, Terry                     1
+             Anhalt, Edward                   1
+             Annamalai, Satchu                1
+             Ansara, Michael                  1
+             Antona, Marc                     1
+             Apo-Tsang, Karma                 1
+             Aquarian, Aesop                  1
+             Arau, Alfonso                    1
+             Arditti, Robert                  1
+             Arechiga, Miguel Ángel           1
+             Arenberg, Lee                    1
+             Arkin, David                     1
+             Armstrong, Bryce (I)             1
+             Armstrong, Curtis                1
+             Arnett Jr., Isaac T.             1
+             Arno, Sig                        1
+             Arnold, Brian (I)                1
+             Arnold, Dickie                   1
+             Arquette, Lewis                  1
+             Arthur, Donald                   1
+             Asaki, Jim                       1
+             Ash, Rick (II)                   1
+             Ashley, John (III)               1
+             Ashton, Dyrk                     1
+             Ashton, John (I)                 1
+             Assante, Armand                  1
+             Astin, John                      1
+             Atherton, William                1
+             Atkin, Harvey                    1
+             Atkins, Christopher              1
+             Atkinson, Rowan                  1
+             Auberjonois, Rene                1
+             August, Robert                   1
+             Augustine, Scott                 1
+             Austin, Carl (I)                 1
+             Averlont, Erik                   1
+             Ayers, Jeff (I)                  1
+             Aykroyd, Peter                   1
+             Aylett, Martin                   1
+             Aylmer, Felix                    1
+             Aylward, John                    1
+             Ayre, Kristian                   1
+             Azaria, Hank                     1
+             Babbs, O.B.                      1
+             Bacall, Michael                  1
+             Backus, Jim                      1
+             Baer, Bogdan                     1
+             Baer, Parley                     1
+             Bagley, Ross (I)                 1
+             Bailey Jr., Robert               1
+             Bailey, Andrew (I)               1
+             Baker, Bob (XIX)                 1
+             Baker, Del (I)                   1
+             Baker, Joe (I)                   1
+             Bakewell, William                1
+             Baldwin, Alec                    1
+             Ball, Zachary (V)                1
+             Baltz, Kirk                      1
+             Bambridge, Bill                  1
+             Bamman, Gerry                    1
+             Banks, Jonathan                  1
+             Banks, Leslie (I)                1
+             Banny, Jeannot                   1
+             Baranov, Aleksandr (II)          1
+             Barclay, Don                     1
+             Barry, Wesley                    1
+             Bartlett, Charles (II)           1
+             Barton, Robert (I)               1
+             Bashoff, Blake                   1
+             Bass, Alfie (I)                  1
+             Baucom, Bill                     1
+             Bays, Joe                        1
+             Beatty, Ned                      1
+             Becker, Kenneth                  1
+             Becker, Louis (I)                1
+             Bedford, Brian                   1
+             Beghe, Jason                     1
+             Begley Jr., Ed                   1
+             Bell (II)                        1
+             Bell, Addison                    1
+             Belushi, James                   1
+             Bemis, Cliff                     1
+             Benard, Christian                1
+             Benchley, Peter                  1
+             Benfield, John                   1
+             Bennett, Jeff (I)                1
+             Bennett, Matthew (I)             1
+             Benning, Russ                    1
+             Bentall, Paul (I)                1
+             Beresford, Marcus                1
+             Bergman, Henry (I)               1
+             Berkoff, Steven                  1
+             Berling, Peter                   1
+             Bernal, Robert                   1
+             Berrigan, Daniel                 1
+             Berry, Lloyd                     1
+             Berry, Vincent                   1
+             Bewley, Tom (I)                  1
+             Bexley, Don                      1
+             Biensfeldt, Paul                 1
+             Bikel, Theodore                  1
+             Bill, Tony (I)                   1
+             Biss, Tom                        1
+             Bissell, Whit                    1
+             Black, Gerry (I)                 1
+             Blanc, Mel                       1
+             Bletcher, Billy                  1
+             Blore, Eric                      1
+             Bock, Mitchell                   1
+             Bogosian, Eric                   1
+             Bonanova, Fortunio               1
+             Booth, Jimmie                    1
+             Borgnine, Ernest                 1
+             Boxer, John (II)                 1
+             Boyd, Stephen (I)                1
+             Boyden, Peter                    1
+             Boyum, Steve                     1
+             Breck, Peter                     1
+             Bridges, Jeff (I)                1
+             Bridges, Lloyd (I)               1
+             Bridgewater, David               1
+             Brill, Michael (I)               1
+             Brocco, Peter                    1
+             Bronson, Charles (I)             1
+             Brown, David Harold              1
+             Brown, Todd Cameron              1
+             Bull, Peter (I)                  1
+             Bupp, Sonny                      1
+             Burgess, Rick (I)                1
+             Burghardt, Arthur                1
+             Burton, Jeff (I)                 1
+             Butala, Tony                     1
+             Camp, Joe (I)                    1
+             Carver, Peter                    1
+             Castellanos, Vincent             1
+             Chapman, Graham                  1
+             Coleman, Jim R. (I)              1
+             Colvig, Pinto                    1
+             Connors, Chuck (I)               1
+             Copeland, Kevin                  1
+             Corcoran, Kevin (I)              1
+             Crawford, John (I)               1
+             Dahlgren, Tom                    1
+             Dane, Karl                       1
+             Delevanti, Cyril                 1
+             Dimech, John                     1
+             Dotrice, Roy                     1
+             Douglas, Robert (I)              1
+             Durini, Giuseppe                 1
+             Foster, Terrence                 1
+             Goddard, Alf                     1
+             Hoey, Dennis (I)                 1
+             Kragh-Jacobsen, Søren            1
+             Mills, Billy (I)                 1
+             Sallis, Peter                    1
+Animation    Akimoto, Yôsuke                  2
+             Baskett, James                   2
+             Sallis, Peter                    2
+             Adams, J.B.                      1
+             Adler, Bruce                     1
+             Adler, Charles (I)               1
+             Alaskey, Joe                     1
+             Albright, Hardie                 1
+             Alexander, Jason (I)             1
+             Allen, Rex (I)                   1
+             Allwine, Wayne                   1
+             Almirante                        1
+             Amerson, Stephen W.              1
+             Amsbery, Bill                    1
+             Atlas, Georges                   1
+             Attenborough, Tom                1
+             Atwell, Roy                      1
+             Auberjonois, Rene                1
+             Auerbach, Norbert                1
+             Autore Jr., Umberto              1
+             Baker, Kenny (I)                 1
+             Ball, Sherwood                   1
+             Barclay, Don                     1
+             Barsacq, Yves                    1
+             Bergen, Edgar                    1
+             Blanda, Robert (I)               1
+             Bottone, Bob                     1
+             Burton, Corey (I)                1
+             Cabot, Sebastian (I)             1
+             Carr, John K.                    1
+             Clark, Buddy (I)                 1
+             Clooney, George                  1
+             Colonna, Jerry                   1
+             Colvig, Pinto                    1
+             Conforti, Gino                   1
+             Daniels, Phil (I)                1
+             DeLuise, Dom                     1
+             Disney, Walt                     1
+             Sedgewick, Julie                 1
+Biography    Ashton-Griffiths, Roger          3
+             Anderson, Sam (I)                2
+             Aadil                            1
+             Aaran, Abraxas                   1
+             Aaron, Bob (I)                   1
+             Abdullah, Joe                    1
+             Abernathy, Ralph                 1
+             Aboulela, Amir                   1
+             Abraham, F. Murray               1
+             Abrishami, Khosrow               1
+             Acevedo, Jon                     1
+             Acheson, Dean (I)                1
+             Ackland, Joss                    1
+             Adams, Jay (I)                   1
+             Adams, Matt (I)                  1
+             Adams, Simon (I)                 1
+             Adamson, Kent                    1
+             Adcox-Hernandez, Thom            1
+             Addota, Kip                      1
+             Adem, Yashaw                     1
+             Adkins, Richard C.               1
+             Adonis, Frank                    1
+             Agarwal, Anirudh                 1
+             Agnew, Spiro                     1
+             Ahn, Philip                      1
+             Alacchi, Carl                    1
+             Alarcon, Lance                   1
+             Albert, James (I)                1
+             Alday, Luis                      1
+             Alden, Norman                    1
+             Aldrin, Buzz                     1
+             Alessandri, Lorenzo              1
+             Alexander, Luc                   1
+             Alexander, Paul (I)              1
+             Alexander, Robert (I)            1
+             Alexander, Roland                1
+             Alfaro, Manny                    1
+             Ali, Muhammad (I)                1
+             Ali, Waleed B.                   1
+             Allen, Alfie                     1
+             Allen, Harold (II)               1
+             Allen, Scott (II)                1
+             Allison, Frankie J.              1
+             Altes, Steve                     1
+             Alu, Al                          1
+             Alvarez, Roberto (I)             1
+             Amadeus, Adrian                  1
+             Ambert, Serge                    1
+             Amendola, Claudio                1
+             Amsby, Alan                      1
+             Amstutz, Roland                  1
+             Amundsen, Tom                    1
+             Ananthakrishnan, Vyas            1
+             Anchisi, Pier Giovanni           1
+             Anderson, Devon (I)              1
+             Anderson, Erich (I)              1
+             Anderson, Jerry E.               1
+             Anderson, Ross (III)             1
+             André, E.J.                      1
+             Angelica, George                 1
+             Angely, Michel                   1
+             Ansberry, Tom                    1
+             Anthoff, Gerd                    1
+             Antonio, José (V)                1
+             Antonutti, Omero                 1
+             Appiano, Peter                   1
+             Aprea, John                      1
+             Ardavany, Tom                    1
+             Aris, Jonathan                   1
+             Armstrong, Jake (I)              1
+             Armstrong, R.G.                  1
+             Arnaud, Francis                  1
+             Astin, Mackenzie                 1
+             Astudillo, Pete                  1
+             Atholl, Steven                   1
+             Attio, Eric                      1
+             Attwell, Michael (I)             1
+             Audiello, Massimo                1
+             Baake, Thommi                    1
+             Baby, Dave (I)                   1
+             Badreya, Sayed                   1
+             Baer, Parley                     1
+             Baetens, Karel                   1
+             Bagni, Fabrice                   1
+             Baille, Philippe                 1
+             Baker, Don Henderson             1
+             Baker, Kenny (I)                 1
+             Bakewell, Gary                   1
+             Baldwin, Stephen (I)             1
+             Barkworth, Peter                 1
+             Barnes, Barry (I)                1
+             Barrat, Robert                   1
+             Barreto, Eric                    1
+             Barron, Marcus (I)               1
+             Barrow, Bernard                  1
+             Barry, Alan                      1
+             Bates, Edward                    1
+             Beach, Jim (II)                  1
+             Beatty, Warren (I)               1
+             Bechir, Pierre                   1
+             Bedford Lloyd, John              1
+             Behal, Stanislav                 1
+             Bell, Nicholas (I)               1
+             Bellamy, Ned                     1
+             Bento, Fernando                  1
+             Berta, Renato                    1
+             Betts, Daniel                    1
+             Bing, Herman                     1
+             Blake Jr., John                  1
+             Blakely, Colin                   1
+             Block, Oliver                    1
+             Boulogne, Ari                    1
+             Bowens, Malick                   1
+             Bowie, David                     1
+             Bowles, Paul                     1
+             Bowman, Al (II)                  1
+             Boyle, Chris (I)                 1
+             Branagh, Kenneth                 1
+             Brandt, Martin (I)               1
+             Brophy, Jed                      1
+             Brown, Jeff (X)                  1
+             Butler, Gerard                   1
+             Campbell, Rob (I)                1
+             Carlson, Joel (I)                1
+             Cassell, Wally                   1
+             Chaplin, Christopher (I)         1
+             Chapp, Randy                     1
+             Chase, Duane (I)                 1
+             Chen, Kaige                      1
+             Ciampi, Daniele (I)              1
+             Clifford, Dean                   1
+             Cogan, Maggie                    1
+             Conklin, Chester                 1
+             Corbett, Michael (I)             1
+             Correcer, L.                     1
+             Crumb, Charles                   1
+             Dean, James (I)                  1
+             Elliott, Jack (III)              1
+             Feiffer, Jules                   1
+             Frentz, Walter                   1
+             Gebrselassie, Bekele             1
+             González, Justo                  1
+             Hurt, Mary Beth                  1
+             Lin, Maya                        1
+Comedy       Affleck, Ben                     8
+             Aiello, Danny                    6
+             Astaire, Fred                    6
+             Abercrombie, Ian                 5
+             Alexander, Jason (I)             5
+             Allen, Woody                     5
+             Ameche, Don                      5
+             Abdul-Jabbar, Kareem (I)         4
+             Adair-Rios, Mark                 4
+             Alda, Alan                       4
+             Andrews, Edward (I)              4
+             Andrews, Giuseppe                4
+             Aykroyd, Dan                     4
+             Bacarella, Mike                  4
+             Bridges, Jeff (I)                4
+             Abrahams, Jon (I)                3
+             Acheson, Mark                    3
+             Addy, Mark                       3
+             Adler, Jerry (I)                 3
+             Aiken, Liam                      3
+             Allen, Gene 'Groove'             3
+             Allen, Kevin (I)                 3
+             Allen, Tim (I)                   3
+             Ames, Leon                       3
+             Anzilotti, Perry                 3
+             Argiro, Vinny                    3
+             Argo, Victor                     3
+             Arkin, Alan                      3
+             Astin, John                      3
+             Astin, Mackenzie                 3
+             Bacon, Kevin (I)                 3
+             Begley Jr., Ed                   3
+             Abasolo, Roland T.               2
+             Abatantuono, Diego               2
+             Abelew, Alan                     2
+             Aber, Chuck                      2
+             Able, Albert                     2
+             Abossolo M'bo, Emile             2
+             Abraham, F. Murray               2
+             Abrams, J.J.                     2
+             Achorn, John                     2
+             Ackerman, Stanley                2
+             Adams, Bob (I)                   2
+             Adams, Mason (I)                 2
+             Adams, Stanley (I)               2
+             Adams, Steve (I)                 2
+             Addison, Walter                  2
+             Addy, William                    2
+             Ade, Herbie                      2
+             Adler, Michael (I)               2
+             Affleck, Casey                   2
+             Ahern, James 'Sporty'            2
+             Akin, Philip                     2
+             Albert, Marv (I)                 2
+             Albert, Wil                      2
+             Alderman, Jason (I)              2
+             Aldredge, Tom                    2
+             Ales, John                       2
+             Alesia, Frank                    2
+             Alexander, Bruno (I)             2
+             Alexander, Flex (I)              2
+             Alexander, Peter (III)           2
+             Alexis, Alvin                    2
+             Alfieri, Joseph (II)             2
+             Allen, Gary (I)                  2
+             Almanzar, James                  2
+             Almodóvar, Agustín               2
+             Alvin, John (I)                  2
+             Ambriz, Domingo                  2
+             Amelia, Vincenzo                 2
+             Amphoux, Michel                  2
+             Anaya, Yano                      2
+             Anderson, Arthur (II)            2
+             Anderson, Timothy (II)           2
+             Andrews, Réal                    2
+             Anthony, Mark (IV)               2
+             Applegate, Royce D.              2
+             Arden, Robert (I)                2
+             Arias, Joseph                    2
+             Arkin, Adam                      2
+             Armstrong, Curtis                2
+             Armus, Sidney                    2
+             Arnaud, Tony                     2
+             Arnett, Will                     2
+             Arney, Randall                   2
+             Arquette, David                  2
+             Arquette, Richmond               2
+             Arroyo, Danny                    2
+             Arsenault, Joseph                2
+             Ashker, John                     2
+             Ashton, Al                       2
+             Atherton, William                2
+             Atkin, Harvey                    2
+             Autry, Alan                      2
+             Avalos, Luis (I)                 2
+             Avery, Val                       2
+             Azaria, Hank                     2
+             Backer, Brian (I)                2
+             Bacon, Irving                    2
+             Badalucco, Michael               2
+             Bailey, G.W.                     2
+             Baker, Dylan (I)                 2
+             Baker, Joe Don                   2
+             Balaban, Bob                     2
+             Baldwin, Doug (I)                2
+             Baldwin, Stephen (I)             2
+             Ball, Robert (I)                 2
+             Ballantine, Carl (I)             2
+             Ballou, Mark                     2
+             Bamman, Gerry                    2
+             Barry, Raymond J.                2
+             Bartok, Jayce                    2
+             Batanides, Arthur                2
+             Bates, Paul (I)                  2
+             Baumbach, Jonathan               2
+             Bellan, Joe                      2
+             Belushi, James                   2
+             Belzer, Richard                  2
+             Benjamin, Ross                   2
+             Blum, Mark (I)                   2
+             Blythe, Robert                   2
+             Bogosian, Eric                   2
+             Bon Jovi, Jon                    2
+             Bosco, Philip (I)                2
+             Brandon, Henry (I)               2
+             Bressart, Felix                  2
+             Broadbent, Jim                   2
+             Buell, Bill                      2
+             Burns, Edward (I)                2
+             Burns, George (I)                2
+             Carroll, Leo G.                  2
+             Catlett, Walter                  2
+             Chan, Chit-Man                   2
+             Chaplin, Charles                 2
+             Noonan, Tom (I)                  2
+             Aaby, Kristian                   1
+             Aar, Jim                         1
+             Aard, Frank J.                   1
+             Aarniokoski, Douglas             1
+             Aaron, Sam (I)                   1
+             Aasland, Derek                   1
+             Abakaz, Suvit                    1
+             Abatemarco, Tony                 1
+             Abbasi, Riz                      1
+             Abbey, Ian                       1
+             Abbot, Paul                      1
+             Abbott, Bruce (I)                1
+             Abbott, Bud                      1
+             Abbott, John (I)                 1
+             Abbott, John (II)                1
+             Abbott, Paul (I)                 1
+             Abbott, Steve (II)               1
+             Abdelmonmonmeni, Kouider         1
+             Abdelrasoul, Khalid              1
+             Abderrazak, Mahmoud              1
+             Abdul-Mansour, Malek             1
+             Abe, Mario                       1
+             Abe, Y. Hero                     1
+             Abel, Walter                     1
+             Abelanski, Lionel                1
+             Abele, Jim (I)                   1
+             Abello, Jarrett                  1
+             Abers, William                   1
+             Abete, Clemente                  1
+             Abeyta, John Christopher         1
+             Abkarian, Simon                  1
+             Ablaza, Billy Joel               1
+             Abot, Didier                     1
+             Abou Khalil, Fadi                1
+             Abou-Ganim, Tony                 1
+             Abraham, Falconer                1
+             Abraham, John (II)               1
+             Abraham, Marc (I)                1
+             Abraham, Richard                 1
+             Abrahams, Doug                   1
+             Abrahams, Jim                    1
+             Abrahams, Jonathan               1
+             Abrams, Dennis                   1
+             Abrams, Noah                     1
+             Abrell, Brad                     1
+             Abreu, Jorge Luis                1
+             Abugov, Adam                     1
+             Accardo, Tommaso                 1
+             Accinelli, Luis                  1
+             Ace, Martin                      1
+             Achee                            1
+             Acheson, James (II)              1
+             Achilles, Damian                 1
+             Ackerman, Forrest J              1
+             Ackland, Joss                    1
+             Ackman, Cole                     1
+             Ackroyd, Jack (II)               1
+             Acovone, Jay                     1
+             Adam, Acram                      1
+             Adam, Ronald                     1
+             Adamonis, John                   1
+             Adamos, Archie                   1
+             Adams, Blake                     1
+             Adams, Ed (I)                    1
+             Adams, Ernie (II)                1
+             Adams, Evan (I)                  1
+             Adams, Jonathan (I)              1
+             Adams, Jonathan (II)             1
+             Adams, Manley                    1
+             Adams, Nick (I)                  1
+             Adams, Peter (V)                 1
+             Adams, Phil (I)                  1
+             Adams, Shea (I)                  1
+             Adams, Stan (I)                  1
+             Adams, Terry (III)               1
+             Adams, Thomas (I)                1
+             Adamson, Christopher (I)         1
+             Adamson, Raymond                 1
+             Adamstein, Dana                  1
+             Addington, John (I)              1
+             Addison, Bernard (I)             1
+             Addy, Wesley                     1
+             Adem, Yashaw                     1
+             Ades, Daniel                     1
+             Adet, Georges                    1
+             Adeyemi, Ayo                     1
+             Adkins, Jeff                     1
+             Adkins, Seth (I)                 1
+             Adler, Henry                     1
+             Adler, Roger                     1
+             Adlum, Zane                      1
+             Adonis, Frank                    1
+             Adzovic, Jadranka                1
+             Adé, Eric                        1
+             Agar, John                       1
+             Agata, Toshiya (I)               1
+             Agnew, James D.                  1
+             Agostino, Salvatore              1
+             Agrusso, Micheal                 1
+             Aguilera, Eric                   1
+             Agustin, Marvin                  1
+             Ahamed, Saikat                   1
+             Ahern, Liam (I)                  1
+             Aherne, Kieran                   1
+             Aherne, Michael                  1
+             Ahlers, Robert                   1
+             Ahmed, Kamal (I)                 1
+             Ahn, Philip                      1
+             Aicher, Marius                   1
+             Aiden, James                     1
+             Aiello, Anthony (I)              1
+             Aiello, Pinky                    1
+             Aikman, Luke                     1
+             Aikman, Troy                     1
+             Aimer, Travis Cody               1
+             Aitchinson, Peter                1
+             Aizenberg, Lior                  1
+             Ajaye, Franklyn                  1
+             Ajdini, Florijan                 1
+             Akar, Haydar                     1
+             Akerman, Jeremy                  1
+             Akey, William                    1
+             Aki (I)                          1
+             Akinnuoye-Agbaje, Adewale        1
+             Akins, Joe                       1
+             Akins, Sid                       1
+             Al-Rashid, Dharma Harun          1
+             Alai, Dean                       1
+             Alaimo, Michael (I)              1
+             Alan, Christopher                1
+             Alan, Kenyon                     1
+             Alansu, John                     1
+             Alaskey, Joe                     1
+             Albacete, Javier                 1
+             Alberni, Luis                    1
+             Albert, Eddie (I)                1
+             Albert, Peter (III)              1
+             Albert, Ralf                     1
+             Albertson, Jack                  1
+             Albinus, Jens                    1
+             Albright, Gerald                 1
+             Albright, Hardie                 1
+             Albright, Jay (I)                1
+             Alcantar, Tony                   1
+             Alcocer, Mario                   1
+             Alcott, Leslie                   1
+             Alcázar, Damián                  1
+             Alcázar, Ángel                   1
+             Alda, Antony                     1
+             Alden, Norman                    1
+             Alden, Steve (I)                 1
+             Alderdice, Martin                1
+             Alderson, John (I)               1
+             Aldrich, Nathan Dana             1
+             Aldridge, Michael                1
+             Aleandri, Emelise                1
+             Alejandrino, Alberto             1
+             Aleksander, Grant                1
+             Aleksander, Stefan               1
+             Aleksandrov, Boris (II)          1
+             Aleong, Aki                      1
+             Aletter, Frank                   1
+             Alexander, Alphonso              1
+             Alexander, Anton                 1
+             Alexander, David (IV)            1
+             Alexander, Edward                1
+             Alexander, J.C. (I)              1
+             Alexander, Jace                  1
+             Alexander, John (I)              1
+             Alexander, John (II)             1
+             Alexander, King                  1
+             Alexander, Matt (I)              1
+             Alexander, Michael G.            1
+             Alexander, Newell (I)            1
+             Alexander, O'Clair               1
+             Alexander, Richard (I)           1
+             Alexander, Richard (II)          1
+             Alexander, Robert (I)            1
+             Alexander, Rolf                  1
+             Alexander, Terry (I)             1
+             Alexander, Wayne (I)             1
+             Alexi-Malle, Adam                1
+             Alfonsi, Claudio                 1
+             Alfredsson, Arnold               1
+             Ali, Shad                        1
+             Ali, Sir                         1
+             Alianak, Hrant                   1
+             Alié, René                       1
+             Alkon, Sheldon                   1
+             Allain, Jean (I)                 1
+             Allan, John Edward               1
+             Allard, Dennis                   1
+             Alldredge, Michael               1
+             Allen, Carlo Perez               1
+             Allen, Chase (I)                 1
+             Allen, Derek 'DOA'               1
+             Allen, Harry (I)                 1
+             Allen, Ian (X)                   1
+             Allen, Irvine                    1
+             Allen, Jason (I)                 1
+             Allen, MacKenzie (I)             1
+             Allen, Mel (I)                   1
+             Allen, Steve (I)                 1
+             Allen, Tyrees                    1
+             Allen, Vance                     1
+             Alleyn, Derek                    1
+             Allinson, Michael (I)            1
+             Allio, Pascal                    1
+             Allison, Bart                    1
+             Allison, Don                     1
+             Allmon, Clinton                  1
+             Allodi, James                    1
+             Allore, Jonathan                 1
+             Allport, Chris M.                1
+             Allred, Corbin                   1
+             Almenares, Ramón                 1
+             Almendros, Néstor                1
+             Almquist, Gregg                  1
+             Alomar Jr., Sandy                1
+             Alonso, Daniel (I)               1
+             Alonso, Johnny                   1
+             Alspaugh, William                1
+             Alston, William                  1
+             Altamirano, Pedro                1
+             Altman, Bruce                    1
+             Altman, Charles R.               1
+             Altman, Jeff (I)                 1
+             Altman, John Neville Rufus       1
+             Altman, Mark A.                  1
+             Altman, Sean (I)                 1
+             Alto, Bobby                      1
+             Altshuld, Alan                   1
+             Alvarado, David (I)              1
+             Alvarez, Manny (I)               1
+             Alvarez, Rafael (I)              1
+             Alvear, Pablo (I)                1
+             Alver, Eric                      1
+             Alzado, Lyle                     1
+             Amador, Andrew                   1
+             Amador, Ricardo                  1
+             Amakye, Willie                   1
+             Amandola, Vittorio               1
+             Amaral, Bob                      1
+             Amaro, Richard                   1
+             Ambabo, Don                      1
+             Amburgey, Jillian                1
+             Amelio, Lucio                    1
+             Amendola, Tony (I)               1
+             Amendolia, Don                   1
+             Ament, Jeff                      1
+             Amer, Nicholas                   1
+             Ames, Kenner                     1
+             Amigo (II)                       1
+             Amirkhas, Ramsin                 1
+             Amis, Danny                      1
+             Ammerman, Dan                    1
+             Amodeo, Luigi                    1
+             Amos, John (I)                   1
+             Amsterdam, Morey                 1
+             Anagnos, Bill                    1
+             Analla, Gordon                   1
+             Anastasia, Albert                1
+             Andelin, James                   1
+             Anders, Ed                       1
+             Anders, Jamie                    1
+             Anders, Richard                  1
+             Anders, Rudolph                  1
+             Anderson, 'Gangsta' Terrell      1
+             Anderson, Darius                 1
+             Anderson, Daryl (II)             1
+             Anderson, Eddie 'Rochester'      1
+             Anderson, Eric Chase             1
+             Anderson, Erich (I)              1
+             Anderson, Ernie (I)              1
+             Anderson, Herbert                1
+             Anderson, Hillyard               1
+             Anderson, Jeff (I)               1
+             Anderson, Kryss                  1
+             Anderson, Mark Allen             1
+             Anderson, Mitchell (I)           1
+             Anderson, Myles                  1
+             Anderson, Rick (VIII)            1
+             Anderson, Robby (I)              1
+             Anderson, Ross (I)               1
+             Anderson, Ryan (I)               1
+             Anderson, Sam (I)                1
+             Anderson, Steven (II)            1
+             Anderson, Todd Robert            1
+             Andosca, Rick                    1
+             Andreone, Matteo                 1
+             Andreozzi, Jack                  1
+             Andrew, Iain                     1
+             Andrew, Kevin (I)                1
+             Andrews, Harry                   1
+             Andrews, Joseph Williams         1
+             Andrews, Stanley (I)             1
+             Andrews, Tubby                   1
+             Andriole, David                  1
+             André, Max (I)                   1
+             Anfinsen, Tom                    1
+             Angel, Jack (I)                  1
+             Angelino, Joel                   1
+             Angelo, Paul                     1
+             Anger, Mark                      1
+             Angileri, Enzo                   1
+             Annese, Maurie                   1
+             Anscombe, Mike (I)               1
+             Ant, Adam                        1
+             Anthony, Bryan (I)               1
+             Anthony, Jack (II)               1
+             Anthony, Johnny Ray              1
+             Anthony, Paul (I)                1
+             Antin, Steve                     1
+             Antoine, Geoffrey                1
+             Antoni, George                   1
+             Antonino, Larry                  1
+             Antonio, Jim                     1
+             Antuofermo, Vito                 1
+             Anzaldo III, Sebastian           1
+             Apisa, Pete                      1
+             Appel, Peter                     1
+             Applebaum, Bill (I)              1
+             Appleby, Mike                    1
+             Applegate, Fred (I)              1
+             Applegate, Jeremy                1
+             Applegate, Rick                  1
+             Aprea, John                      1
+             Aquilino, Frank                  1
+             Aquino, John (I)                 1
+             Arafat, Yasser                   1
+             Arana, Tomas                     1
+             Aranda, Rene                     1
+             Arango, José Rafael              1
+             Aranha, Ray                      1
+             Arantes, Rômulo                  1
+             Arbuckle, Roscoe 'Fatty'         1
+             Arbus, Allan                     1
+             Arcate, Michael                  1
+             Arceneaux, Barney D.             1
+             Arceri, John                     1
+             Archambault, Sylvio              1
+             Archer, John (I)                 1
+             Archerd, Army                    1
+             Archie, John                     1
+             Arditi, Pierre                   1
+             Ardizzone, Davide                1
+             Ardolino, Isaac                  1
+             Arenas, Ed                       1
+             Arenberg, Lee                    1
+             Arey, David                      1
+             Argenziano, Carmen               1
+             Ari, Bob                         1
+             Arias, Gersa                     1
+             Arias, Héctor                    1
+             Aris, Jonathan                   1
+             Arizona, Mooky                   1
+             Arkin, David                     1
+             Arledge, John                    1
+             Arm, Mark                        1
+             Armatrading, Tony                1
+             Armin, Robert (I)                1
+             Armknecht, Martin                1
+             Armour III, Tommy                1
+             Armstrong, Alun                  1
+             Armstrong, Brett                 1
+             Armstrong, R.G.                  1
+             Armstrong, Ron                   1
+             Armstrong, William S.            1
+             Arnarsson, Örvar Jens            1
+             Arndt, Denis                     1
+             Arne, Peter                      1
+             Arno, Sig                        1
+             Arnold, Allen                    1
+             Arnold, Brian (I)                1
+             Arnold, David A. (II)            1
+             Arnold, Edward (I)               1
+             Arnold, Mark (I)                 1
+             Arnold, Tom (I)                  1
+             Arnold, Victor (II)              1
+             Arnor, Jay                       1
+             Arnott, David (I)                1
+             Arnott, Jason (I)                1
+             Arnt, Charles                    1
+             Arone, James                     1
+             Arquette, Lewis                  1
+             Artels, Steven                   1
+             Arthur, Judes Jules              1
+             Artus, David                     1
+             Artz, Tim                        1
+             Asai, Jun                        1
+             Ash, William                     1
+             Ashe, Paddy                      1
+             Ashford, Jim                     1
+             Ashforth, Justin                 1
+             Ashley, John (I)                 1
+             Ashley, Kurek                    1
+             Ashmore, Shawn                   1
+             Asholt, Jesper                   1
+             Ashton, John (I)                 1
+             Ashton, Joseph                   1
+             Ashton-Griffiths, Roger          1
+             Aske, Per Egil                   1
+             Askerneese, Chuck                1
+             Askin, Leon                      1
+             Askin, Peter                     1
+             Asner, Edward                    1
+             Asparagus, Fred                  1
+             Assad, Richard                   1
+             Assante, Armand                  1
+             Astro (II)                       1
+             Atkine, Féodor                   1
+             Atkins, Tom (I)                  1
+             Atkinson, Delroy                 1
+             Atkinson, Fort                   1
+             Atkinson, Phil (I)               1
+             Atkinson, Steve (I)              1
+             Atmore, Billy 'Pop'              1
+             Attal, Yvan                      1
+             Attile, Larry                    1
+             Atwill, Lionel                   1
+             Auberjonois, Rene                1
+             Aubuchon, Jacques                1
+             Audin, Patrick                   1
+             Auer, Mischa                     1
+             Aufaure, Claude                  1
+             Auguste, Richard                 1
+             Aussedat, Pierre                 1
+             Auteuil, Daniel                  1
+             Autrey, Aspen                    1
+             Averitt, Julius                  1
+             Averlant, Eric                   1
+             Avery, Brian (I)                 1
+             Avery, James (I)                 1
+             Aviles, Rick                     1
+             Ayila, Tumba                     1
+             Azzaro, Rome                     1
+             B, Wesley                        1
+             Babar, Marius                    1
+             Babatundé, Obba                  1
+             Babbs, O.B.                      1
+             Babchak, Jim                     1
+             Bader, Diedrich                  1
+             Badurina, Livio                  1
+             Baer, Parley                     1
+             Bagby, Larry                     1
+             Bagden, Ron                      1
+             Bagley, Tim                      1
+             Bagnall, Jamie                   1
+             Bagneris, Vernel                 1
+             Bailey, Bill (IV)                1
+             Bailey, Ewan                     1
+             Bailey, Jason (II)               1
+             Baio, Jimmy                      1
+             Baird, John (I)                  1
+             Baitz, Jon Robin                 1
+             Baixas, Nico                     1
+             Baka, Jeremy                     1
+             Bakalyan, Richard                1
+             Baker, Aaron (I)                 1
+             Baker, Bob (V)                   1
+             Baker, Danny (II)                1
+             Baker, Don Henderson             1
+             Baker, Jay (I)                   1
+             Baker, Joby                      1
+             Baker, Lenny                     1
+             Baker, Ray (I)                   1
+             Baker, Richard James             1
+             Bakewell, William                1
+             Bakey, Ed                        1
+             Bakula, Scott                    1
+             Bakunas, Steve                   1
+             Baldasare, Nick                  1
+             Baldwin, Adam (I)                1
+             Baldwin, Ken (I)                 1
+             Baldwin, Peter (I)               1
+             Baldwin, Walter (I)              1
+             Balfour, Eric                    1
+             Balin, Michael                   1
+             Balis, Elliot                    1
+             Ball, Rod                        1
+             Ball, Vincent (I)                1
+             Ballerini, Edoardo               1
+             Balmos, Tom                      1
+             Bana, Eric                       1
+             Bancroft, Bob                    1
+             Bancroft, Bradford               1
+             Bancroft, Cameron                1
+             Bandera, Manuel                  1
+             Banderas, Antonio                1
+             Bandey, Paul                     1
+             Bank, Frank                      1
+             Bannon, Chad                     1
+             Bannon, James (I)                1
+             Barbe, Michel                    1
+             Barbera, Joseph                  1
+             Barbera, Laurence                1
+             Barbour, Bruce Paul              1
+             Barbour, Thomas                  1
+             Barclay, Don                     1
+             Bardini, Aleksander              1
+             Barker, Abe                      1
+             Barklem, Nick                    1
+             Barlow, Tom (I)                  1
+             Barmon Jr., John F.              1
+             Barnes, Chris (V)                1
+             Barnes, Isaiah                   1
+             Barnes, Patrick Rodney           1
+             Barnes, T. Roy (I)               1
+             Barnett, Robbie                  1
+             Barnett, Ronnie                  1
+             Baron, Chuck                     1
+             Barr, Dennis                     1
+             Barr, Russell                    1
+             Barra, Gianfranco                1
+             Barre, Gabriel                   1
+             Barreto, Justin                  1
+             Barrett, Colin (I)               1
+             Barrett, Don (III)               1
+             Barrie, Trevor                   1
+             Barron, Bo                       1
+             Barrows, George                  1
+             Barry, Dave (I)                  1
+             Barry, Eric (I)                  1
+             Barry, Ivor                      1
+             Barry, Jason (I)                 1
+             Bartel, Paul (I)                 1
+             Bartell, Tim                     1
+             Bartman, William S.              1
+             Barylli, Gabriel                 1
+             Basaraba, Gary                   1
+             Basco, Dante                     1
+             Basie, Count                     1
+             Basile, Joe (I)                  1
+             Baskin, Elya                     1
+             Baskin, William                  1
+             Basler, Antoine                  1
+             Bass, Ben                        1
+             Bassi, Shekhar                   1
+             Basso, Serge                     1
+             Bastard, Flash                   1
+             Bates Jr., James                 1
+             Bath, Jim                        1
+             Batinkoff, Randall               1
+             Bauer, Bruce (I)                 1
+             Bauer, Chris (I)                 1
+             Baum, Bruce                      1
+             Baum, Jürgen                     1
+             Baxter, John (II)                1
+             Bayler, Terence                  1
+             Baylor, Hal                      1
+             Beach, Michael (I)               1
+             Beach, Scott                     1
+             Beall, Charles                   1
+             Bean, Henry                      1
+             Bean, Orson                      1
+             Bear, Eddie                      1
+             Beasley, John (I)                1
+             Beatles, The                     1
+             Beattie, Ron                     1
+             Beatty, Ned                      1
+             Beauchemin, Scott (I)            1
+             Beaulieu, Trace                  1
+             Beaune, Michel                   1
+             Beaver, Jim (I)                  1
+             Beaver, Little                   1
+             Bechtel, Jesse (I)               1
+             Beck, Glenn (I)                  1
+             Beck, Jonathan (I)               1
+             Beck, Rufus                      1
+             Becker, Gerry                    1
+             Becker, Kenneth                  1
+             Becker, Randy                    1
+             Beecher, Donal (I)               1
+             Beecroft, David                  1
+             Beer, Daniel (I)                 1
+             Beery, Wallace                   1
+             Begalishvili, Badri              1
+             Begg, Gordon                     1
+             Behrens, Bernard                 1
+             Beks, Jakob                      1
+             Bell, Barry (I)                  1
+             Bell, Dan (I)                    1
+             Bell, Michael (I)                1
+             Bellal, Benoît                   1
+             Bellamy, Bill (I)                1
+             Bellamy, Ralph                   1
+             Bellin, Thomas                   1
+             Belov, Oleg (I)                  1
+             Belson, Michael                  1
+             Ben-Victor, Paul                 1
+             Benazzo, Maurizio                1
+             Benchley, Nat                    1
+             Benesh, Mark                     1
+             Beneyton, Yves                   1
+             Benfield, John                   1
+             Benjamin, Joel (I)               1
+             Benjamin, Paul (I)               1
+             Bennett III, Jimmy               1
+             Bennett, Norman (I)              1
+             Bennett, Tony (I)                1
+             Benício, Murilo                  1
+             Berenger, Tom                    1
+             Bergholz, Jon                    1
+             Bergin, Patrick                  1
+             Bergman, Henry (I)               1
+             Berkowitz, Michael (I)           1
+             Berlind, Roger                   1
+             Berman, Josh (II)                1
+             Berns, Wally K.                  1
+             Bernstein, David M.              1
+             Bernstein, Douglas               1
+             Berry, Chuck (I)                 1
+             Berry, Philippe                  1
+             Berteloot, Jean-Yves             1
+             Bethke, Tom                      1
+             Beuth, Robert Alan               1
+             Bevans, Clem                     1
+             Bianchini, Alfredo               1
+             Bianco, Mario (I)                1
+             Bicq, Graham                     1
+             Bidaman, Robert                  1
+             Biddle Sr., Charles              1
+             Bierko, Craig                    1
+             Bilios, Dion                     1
+             Billing, Roy                     1
+             Billings, Joshua (I)             1
+             Binion, Crawford                 1
+             Binkley, Gregg (I)               1
+             Birch, Yan                       1
+             Bishop, Tom (I)                  1
+             Bishop, Tyler (I)                1
+             Bisset, Douglas (I)              1
+             Bivens, J.B.                     1
+             Biyona, Jimmy                    1
+             Black, Ian (III)                 1
+             Black, Tre                       1
+             Black, Trevor (II)               1
+             Blackshire, Geoffrey             1
+             Blackson, Michael                1
+             Blaisdell, Nesbitt               1
+             Blake Jr., Thomas Walter         1
+             Blake, Andre B.                  1
+             Blakely, Gene                    1
+             Blakeslee, Douglas               1
+             Blasucci, Dick                   1
+             Blendell, Troy                   1
+             Blier, Bernard                   1
+             Bloom, John (I)                  1
+             Bloom, Paul (II)                 1
+             Blossom, Alvin                   1
+             Blumberg, Ted                    1
+             Bobbie, Walter                   1
+             Boes, Richard                    1
+             Bogachov, Vladimir               1
+             Bogan, Hugh                      1
+             Bogart, Humphrey                 1
+             Boland, Mary (I)                 1
+             Bonanova, Fortunio               1
+             Bond, A.J.                       1
+             Bond, Ward                       1
+             Bonds, De'aundre                 1
+             Bonifas, Paul                    1
+             Bonilla, Art                     1
+             Bonneville, Hugh                 1
+             Bonsall, Brian                   1
+             Bontempo, Pietro                 1
+             Borden, Eddie                    1
+             Bordighi, Al                     1
+             Boreen, Chad                     1
+             Boreo, Emile                     1
+             Bortz, Jason                     1
+             Bosworth, Hobart                 1
+             Boucaron, Gérard                 1
+             Bouchaud, Jean                   1
+             Bouchitey, Patrick               1
+             Bourseiller, Antoine             1
+             Bovelett, Achim                  1
+             Bowen, Erick                     1
+             Bown, Paul                       1
+             Boyce, Jim                       1
+             Boyd, Tim (II)                   1
+             Boyer, Chance                    1
+             Boyer, Charles (I)               1
+             Bradin, Jean                     1
+             Bradley, Doug (I)                1
+             Bradley, George (II)             1
+             Brady, Scott (III)               1
+             Brailey, Peter                   1
+             Brancuzský, Otmar                1
+             Brando, Marlon                   1
+             Brascia, John                    1
+             Bratton-Ryan, Jack               1
+             Braverman, A. Kent               1
+             Breen, Patrick                   1
+             Breese, Edmund                   1
+             Brewster, Robert (I)             1
+             Bridges, Jordan (I)              1
+             Briers, Richard                  1
+             Briggs, Samuel                   1
+             Brightwell, Paul                 1
+             Brimble, Ian                     1
+             Brin, Charles                    1
+             Brinkley, Ritch                  1
+             Brinkmann, Robert (I)            1
+             Brock, Stanley (I)               1
+             Brock, Vince                     1
+             Broderick, Matthew (I)           1
+             Brody, Lewis                     1
+             Bromberg, J. Edward              1
+             Brook, Sebastian                 1
+             Brooks, Mel (I)                  1
+             Brooks, Ron (II)                 1
+             Brophy, Edward (I)               1
+             Brosnan, James                   1
+             Brothers Candoli, The            1
+             Brown, Andre Rosey               1
+             Brown, Billy (II)                1
+             Brown, Gerard (I)                1
+             Brown, Jason (I)                 1
+             Brown, Jonathan (III)            1
+             Brown, Kedar                     1
+             Brown, Nick (IV)                 1
+             Brown, Ralph (I)                 1
+             Brown, Scott (III)               1
+             Browne, Roscoe Lee               1
+             Bruce, Reggie                    1
+             Brumfield, Harvey                1
+             Bruner, John (I)                 1
+             Brunner, Robert (I)              1
+             Bruns, Philip                    1
+             Bucatinsky, Dan                  1
+             Buetel, Jack                     1
+             Buret, Philippe                  1
+             Burger, Cody                     1
+             Burgess, Michael (I)             1
+             Burke, Patrick Sullivan          1
+             Burke, Robert John (I)           1
+             Burke, William (I)               1
+             Burnham, Charles (I)             1
+             Burns, Dan (I)                   1
+             Buscemi, Steve                   1
+             Busch, Ian                       1
+             Busey, Jake (I)                  1
+             Butler, Billy (I)                1
+             Böhlke, Peter                    1
+             Caan, James (I)                  1
+             Cabildo, Jesus                   1
+             Cabot, Bruce                     1
+             Caesar, Sid                      1
+             Callahan, E.J.                   1
+             Camilleri, Terry                 1
+             Camp, Andrew (I)                 1
+             Camp, Don                        1
+             Campbell, Alan (II)              1
+             Campbell, Ken Hudson             1
+             Campo, Wally                     1
+             Cannon, Nick (I)                 1
+             Canterbury, Christian            1
+             Capodice, John                   1
+             Cappodanno, Nicky                1
+             Capron, Brian                    1
+             Carbonell, Raúl                  1
+             Carmichael, Josh                 1
+             Carpenter, David (I)             1
+             Carr, Bubba                      1
+             Carreri, Steve                   1
+             Carson, David (II)               1
+             Carson, Jack (I)                 1
+             Carter, Jim (I)                  1
+             Carter, Jimmy (I)                1
+             Cartier, Carlo                   1
+             Castellano, John (I)             1
+             Cedric the Entertainer           1
+             Cellier, Frank                   1
+             Chamberlain, Neville             1
+             Chambers, Ralph W.               1
+             Chappell, Norman                 1
+             Chase, Chevy                     1
+             Chaykin, Maury                   1
+             Chestnut, Morris                 1
+             Chevalier, Maurice (I)           1
+             Cho, Margaret                    1
+             Chow, Ho                         1
+             Clark, J.J. (I)                  1
+             Claxton, Jack                    1
+             Clements, Edward                 1
+             Cochran, Colby                   1
+             Cochrane, Rory                   1
+             Cohen, Joe (I)                   1
+             Cohen, Scott (I)                 1
+             Colasanto, Nicholas              1
+             Coleman, Layne                   1
+             Collins, Carter                  1
+             Collins, Russell (I)             1
+             Connally, John (I)               1
+             Connery, Sean                    1
+             Connolly, Walter                 1
+             Conti, Tom                       1
+             Cooper, Chuck (I)                1
+             Corff, Bob                       1
+             Corrigan, Kevin (I)              1
+             Cowan, Jerome                    1
+             Cowles, Matthew                  1
+             Cox, Bud                         1
+             Cox, Tony (I)                    1
+             Crawford, Broderick (I)          1
+             Crawford, Perry                  1
+             Cudlitz, Michael (I)             1
+             Cullen, Brett (I)                1
+             Dandridge, Don                   1
+             Daniel, Don (I)                  1
+             Daniell, Henry                   1
+             Dano, Royal                      1
+             David, Angel                     1
+             David, Keith (I)                 1
+             Davidson, John (II)              1
+             Davies, Jeremy (I)               1
+             Davies, Toby (I)                 1
+             Dawson, Paul (II)                1
+             DeLonge, Thomas                  1
+             Del Toro, Benicio                1
+             Dillon, Jack (II)                1
+             Du, Jiayi (I)                    1
+             Duffin, Shay                     1
+             Díaz, Guillermo (I)              1
+             Döring, Helmut                   1
+             Eckhart, Aaron                   1
+             Edelman, Herb                    1
+             Eden, Jerome                     1
+             Elroy, Derek                     1
+             Elsen, John                      1
+             Emoto, Akira                     1
+             Ermey, R. Lee                    1
+             Ertmanis, Victor                 1
+             Farnham, Euclid                  1
+             FitzPatrick, James A.            1
+             Fowley, Douglas                  1
+             Gant, Robert                     1
+             Garmon, Huw                      1
+             Gaynes, George                   1
+             Gioia, James                     1
+             Graham, Jordan (V)               1
+             Greig, Robert                    1
+             Hamilton, Richard (I)            1
+             Harker, Gordon                   1
+             Harrison, Rex (I)                1
+             Hicks, Seymour                   1
+             Higson, Arthur                   1
+             Humphrey, William (I)            1
+             Kathehakis, Alex                 1
+             Keaton, Buster                   1
+             Kendall, Henry                   1
+             Kiefer, Laurel Lee               1
+             Kruschen, Jack                   1
+             Lawrence, Martin (I)             1
+             Prior, Herbert                   1
+             Tarantino, Quentin               1
+             al-Assad, Hafez                  1
+Crime        Abrahams, Jon (I)                3
+             Aiello, Danny                    3
+             Allen, Keith (I)                 3
+             Aasland, Derek                   2
+             Abbasi, Riz                      2
+             Adler, Jay                       2
+             Akiyama, Denis                   2
+             Alessandro, Anthony              2
+             Anderson, Stanley                2
+             Assante, Armand                  2
+             Auteuil, Daniel                  2
+             Bacon, Kevin (I)                 2
+             Baltz, Kirk                      2
+             Barrymore, Lionel                2
+             Bates, Michael (I)               2
+             Brice, Ron                       2
+             Calleia, Joseph                  2
+             $hort, Too                       1
+             'Dead End' Kids, The             1
+             Aamodt, Thor Michael             1
+             Aaron, Chad (I)                  1
+             Aaron, Victor (I)                1
+             Abasolo, Roland T.               1
+             Abbott, John (II)                1
+             Abbott, Tommy                    1
+             Abbou, Bernard                   1
+             Abdul-Ali, Hassan                1
+             Aber, Chuck                      1
+             Abineri, John                    1
+             Abraham, F. Murray               1
+             Abraham, Falconer                1
+             Abraham, Jake (II)               1
+             Abrams, Solomon                  1
+             Abuba, Ernest                    1
+             Acciarito, Frankie               1
+             Acheson, James (II)              1
+             Achilles, Damian                 1
+             Adam, Ronald                     1
+             Adams, Albert (I)                1
+             Adams, Lloyd                     1
+             Adams, Phil (I)                  1
+             Adams, Randall (I)               1
+             Adams, Steve (I)                 1
+             Adamson, Christopher (I)         1
+             Adamson, Frank (I)               1
+             Addy, Wesley                     1
+             Ade, Herbie                      1
+             Adelman, Skippy                  1
+             Adelstein, Paul                  1
+             Adisa, Lawrence B.               1
+             Adjeri, Ranzi                    1
+             Adkins, David (I)                1
+             Adonis, Frank                    1
+             Adu, Frank                       1
+             Agami, Al                        1
+             Aguilar, George (I)              1
+             Ahern, Tim (I)                   1
+             Aherne, Brian (I)                1
+             Ahlf, Al                         1
+             Ahn, Philip                      1
+             Aiello III, Danny                1
+             Akerstream, Marc                 1
+             Alamia, Giovanni                 1
+             Alban, Carlo                     1
+             Albanese, Frank                  1
+             Alcan, Peter                     1
+             Alderson, George (I)             1
+             Aldredge, Tom                    1
+             Aleksiev, Dimiter                1
+             Alessandroni, Henry              1
+             Alexander, Flex (I)              1
+             Alexander, Jerome                1
+             Alexander, Mo                    1
+             Alexander, Terry (I)             1
+             Alfasa, Joe                      1
+             Alford, Phillip                  1
+             Allain-Marcus, Wade              1
+             Allar, Daniel                    1
+             Allegretti, Cosmo                1
+             Allen, Carl (I)                  1
+             Allen, Donald V.                 1
+             Allen, Mel (I)                   1
+             Allen, Mike (XXIV)               1
+             Allen, Todd (I)                  1
+             Allen, Tommy (I)                 1
+             Allison, Ray                     1
+             Allmond, John                    1
+             Alonso, Carlo                    1
+             Alper, Murray                    1
+             Altman, Bruce                    1
+             Alvarez, Abraham                 1
+             Ambrozy, Bill                    1
+             Amico, Robert                    1
+             Ammons, Christopher Reagan       1
+             Anannlin, Macky                  1
+             Anderson, Dion (I)               1
+             Anderson, Erich (I)              1
+             Anderson, Ernie (I)              1
+             Anderson, J. Todd                1
+             Anderson, Keith (IV)             1
+             Anderson, Kenneth (I)            1
+             Anderson, Matthew R.             1
+             Anderson, Taylor (I)             1
+             Andrews, Giuseppe                1
+             Andrews, Jason (I)               1
+             Andrews, Naveen                  1
+             Andrews, Tod (I)                 1
+             Andrés López, Ángel de           1
+             Angarola, Richard                1
+             Angelis, Paul                    1
+             Anglade, Jean-Hugues             1
+             Anh, Le Cong Tuan                1
+             Anthony, Marc (I)                1
+             Antonio, Lou                     1
+             Antonucci, Vittorio              1
+             Apel, Robert                     1
+             Appel, Peter                     1
+             Appel, Travis (I)                1
+             Applegate, Royce D.              1
+             Arana, Tomas                     1
+             Ardito, Gino                     1
+             Argiro, Vinny                    1
+             Aris, Ben (I)                    1
+             Arkin, David                     1
+             Armus, Sidney                    1
+             Arno, Frank                      1
+             Arnold, Denny                    1
+             Aron, Michael                    1
+             Arquette, David                  1
+             Arquette, Lewis                  1
+             Arquette, Richmond               1
+             Artus, Ashley                    1
+             Ashforth, Justin                 1
+             Ashikawa, Makoto                 1
+             Askew, Luke                      1
+             Asther, Nils                     1
+             Atkins, Dave (I)                 1
+             Atkinson, Fort                   1
+             Attles, Joseph                   1
+             Attwell, Michael (I)             1
+             August, Lance                    1
+             Austin, Dave (I)                 1
+             Avery, John (III)                1
+             Aylward, Peter                   1
+             Badalamenti, Angelo              1
+             Bailey, David (III)              1
+             Bailey, J. Robert                1
+             Bailey, Raymond (I)              1
+             Baker, Buck (I)                  1
+             Baker, Dylan (I)                 1
+             Baker, George Anthony            1
+             Baker, John (V)                  1
+             Baker, Kenny (I)                 1
+             Baldwin, Alec                    1
+             Baldwin, Daniel (I)              1
+             Baldwin, Stephen (I)             1
+             Bale, Christian                  1
+             Ballou, Howard                   1
+             Ban, Prosperous                  1
+             Bancroft, George (I)             1
+             Banderas, Antonio                1
+             Banks, Leslie (I)                1
+             Baptist, Nigel (I)               1
+             Barbier, Jean-Claude             1
+             Barker, Guy (II)                 1
+             Barker, Lex (I)                  1
+             Barker, Ron (I)                  1
+             Barr, Byron                      1
+             Barry, Raymond J.                1
+             Bartko, Philip                   1
+             Bartlett, Robert (III)           1
+             Basehart, Richard                1
+             Bates, Paul (I)                  1
+             Beach, Michael (I)               1
+             Beal, Royal                      1
+             Beale, Chris                     1
+             Beatty, Ned                      1
+             Beaumont, Hugh                   1
+             Beckwith, Reginald               1
+             Beebe, Steve Mitchell            1
+             Beesley, Brent                   1
+             Bell, Barry (I)                  1
+             Bender, Lawrence                 1
+             Bengue, John                     1
+             Bennet, Brian (I)                1
+             Benrubi, Abraham                 1
+             Berg, Alec (I)                   1
+             Bergenstock, Rob                 1
+             Berger, Helmut (I)               1
+             Berman, Drew                     1
+             Bernardi, Nerio                  1
+             Bernardo, Paul Joseph            1
+             Bertharion Jr., Gil              1
+             Bienert, Gerhard                 1
+             Bieri, Ramon                     1
+             Biggers, Dan                     1
+             Biraud, Maurice                  1
+             Birchall, Jeremy (I)             1
+             Bishop, Ex-Det. Sergt.           1
+             Bissell, Whit                    1
+             Bitten, Roosevelt                1
+             Bivens, Loren                    1
+             Black, Jay (I)                   1
+             Blackman, Don (I)                1
+             Blades, Rubén                    1
+             Blevins, Cory                    1
+             Blondell, Brian                  1
+             Bogart, Humphrey                 1
+             Bogert, William                  1
+             Bogus (I)                        1
+             Bond, Rudy                       1
+             Borjas, Israel                   1
+             Borkan, Gene                     1
+             Boudov, Jeff                     1
+             Boulton, Guy Pelham              1
+             Boyer, Charles (I)               1
+             Bridges, Jeff (I)                1
+             Brillant, Ludovic                1
+             Briscoe, Brent                   1
+             Broadbent, Jim                   1
+             Bronson, Charles (I)             1
+             Brown, John (I)                  1
+             Buchsbaum, Max                   1
+             Burgess, Michael (I)             1
+             Burlage, Roger                   1
+             Burroughs, William S.            1
+             Butcher, Harry G.                1
+             Butler, Paul (I)                 1
+             Byrne, Michael P.                1
+             Caballero, Luis (I)              1
+             Cabus, Mark (I)                  1
+             Caffrey, Sean (I)                1
+             Caine, Henry                     1
+             Caine, Michael (I)               1
+             Callahan, Mars                   1
+             Camburn, Bruce E.                1
+             Campbell, John Lyle              1
+             Campbell, Kippy                  1
+             Carroll, Leo G.                  1
+             Chabior, Janusz                  1
+             Chamberlain, Howland             1
+             Chan, Fai-hung                   1
+             Chen, Shu (I)                    1
+             Choy, Tomas                      1
+             Corbin, Barry                    1
+             Criss, Anthony 'Treach'          1
+             Curzon, George                   1
+             Dall, John (I)                   1
+             Damon, Mark (I)                  1
+             Daugherty, Jon (I)               1
+             Davies, Rupert (I)               1
+             Del Val, Jean                    1
+             Douglas, Donald (I)              1
+             Ford, Wallace                    1
+             Gilmore, Art                     1
+             Hu, Li (I)                       1
+             Jones, Shirley (I)               1
+             Little, Russ (I)                 1
+             Lloyd, William (I)               1
+Documentary  $hort, Too                       2
+             Aldrin, Buzz                     2
+             Aarniokoski, Douglas             1
+             Abraham, F. Murray               1
+             Abreu, Jorne                     1
+             Achdjian, Patrick                1
+             Agee, Arthur                     1
+             Aiello, Danny                    1
+             Alcón, Alfredo                   1
+             Alexis, Demetrius                1
+             Ali, Muhammad (I)                1
+             Allen, Dean (I)                  1
+             Allen, Gene (II)                 1
+             Allen, Henry 'Red'               1
+             Allen, Sid                       1
+             Allen, Woody                     1
+             Almodóvar, Pedro                 1
+             Alvarez, Everett                 1
+             Ameche, Don                      1
+             Ament, Jeff                      1
+             Anastasio, Trey                  1
+             Anderson, Dave (XXXI)            1
+             Anderson, Ian (IV)               1
+             Andrews, Jean (I)                1
+             Anuff, Joey                      1
+             Archbold, Jerry                  1
+             Ascencio, Filberto               1
+             Asnes, Andrew                    1
+             Astaire, Fred                    1
+             August, Robert                   1
+             Bailey, Peter (III)              1
+             Bakatman, Scott                  1
+             Baker, Arthur (I)                1
+             Baker, Don (X)                   1
+             Bambaataa, Afrika                1
+             Barbour, Nathan A.               1
+             Bartosz, Andy                    1
+             Basch, Bill                      1
+             Bawa, Kapil                      1
+             Bell, Daniel (II)                1
+             Bell, Dennis (II)                1
+             Bentley, Jason (I)               1
+             Bernard, John (IV)               1
+             Bessey, Claude                   1
+             Bidault, Georges                 1
+             Blanchard, James (I)             1
+             Bock, Tim                        1
+             Bopsa                            1
+             Breashears, David                1
+             Brooks, Rodney (I)               1
+             Brown, Bruce (I)                 1
+             Brown, Chris (XI)                1
+             Byrne, David (I)                 1
+             Canemaker, John                  1
+             Carmen and Brooke                1
+             Cooder, Joachim                  1
+             Cragg, Larry                     1
+             David, Queer                     1
+             Dunn, Lloyd                      1
+             Eisenschitz, Bernard             1
+             Epstein, Julius                  1
+             Fuller, Samuel                   1
+             Gielgud, John                    1
+             Goldman, Martin (II)             1
+             Griffith, Bill (I)               1
+             Hayward, Susan (I)               1
+             Hitchcock, Robyn                 1
+             Jackson, Jesse (I)               1
+             Khan, Kamran (I)                 1
+             Koppel, Ted                      1
+             Kozlowski, Leopold               1
+             Laibach                          1
+             Levitch, Timothy 'Speed'         1
+             Miller, Paul (XI)                1
+             Nguyen, Xuan Ngoc                1
+             Perrin, Jacques                  1
+             Persson, Caisa                   1
+Drama        Ashton-Griffiths, Roger          4
+             Auteuil, Daniel                  4
+             Bacon, Kevin (I)                 4
+             Ackland, Joss                    3
+             Adams, Nick (I)                  3
+             Addy, Wesley                     3
+             Affleck, Casey                   3
+             Aldredge, Tom                    3
+             Altman, Bruce                    3
+             Amendolia, Don                   3
+             Andrews, Dana (I)                3
+             Andrews, Jason (I)               3
+             Bennett, Norman (I)              3
+             Adamson, Chuck                   2
+             Addobbati, Giuseppe              2
+             Adler, Luther                    2
+             Affleck, Ben                     2
+             Afrakhan, Behrooz                2
+             Aiello, Danny                    2
+             Alexander, Bruce (I)             2
+             Allerson, Alexander              2
+             Alterio, Héctor                  2
+             Alterman, Steve                  2
+             Alvin, John (I)                  2
+             Amalric, Mathieu                 2
+             Anderson, Richard (I)            2
+             Andorai, Péter                   2
+             Angel, Jack (I)                  2
+             Appel, Peter                     2
+             Aprea, John                      2
+             Aris, Ben (I)                    2
+             Arkin, Alan                      2
+             Astin, Sean                      2
+             Atwill, Lionel                   2
+             Avildsen, Christopher            2
+             Baker, Ray (I)                   2
+             Baldwin, Alec                    2
+             Baldwin, Bill (II)               2
+             Baldwin, Sean (I)                2
+             Ball, Seamus                     2
+             Barbour, Thomas                  2
+             Bauchau, Patrick                 2
+             Bellamy, Ralph                   2
+             Berkeley, Xander                 2
+             Bernard, Barry (I)               2
+             Bruce, Nigel                     2
+             Chang, Shih                      2
+             Fuji, Tatsuya                    2
+             Aaron, Bob (I)                   1
+             Aaron, James (I)                 1
+             Aaron, Sam (I)                   1
+             Aaron, Victor (I)                1
+             Abatcha, Saïdou                  1
+             Abatiell, Robert                 1
+             Abattucci, Serge                 1
+             Abbey, Joshua                    1
+             Abbot, Bernie                    1
+             Abbott, John (I)                 1
+             Abbott, Mark (I)                 1
+             Abdurrahamn, Umar                1
+             Abe, Y. Hero                     1
+             Abel, Alfred                     1
+             Abel, Joseph Patrick             1
+             Abelar, Michael                  1
+             Abell, Alistair                  1
+             Abelle, Janvier                  1
+             Abernathy, Lewis                 1
+             Abiskaron, John                  1
+             Abraham, Abraham                 1
+             Abraham, Jorge                   1
+             Abraham, Sean                    1
+             Abraham, Walter                  1
+             Abrahams, Doug                   1
+             Abrahams, Jody                   1
+             Abrahams, Jon (I)                1
+             Abrams, J.J.                     1
+             Abratowski, Ed                   1
+             Absolom, Malcolm                 1
+             Abzada, Jacqui                   1
+             Ace (XV)                         1
+             Acevebo, Art                     1
+             Acevedo, Kirk                    1
+             Achar, Ravi                      1
+             Acheson, Mark                    1
+             Achtel, Dieter                   1
+             Acosta, David (I)                1
+             Acosta, José Alberto             1
+             Acosta, Richard                  1
+             Acovone, Jay                     1
+             Acton, David (I)                 1
+             Acunzo, Giseppe                  1
+             Adachi, Yoshi                    1
+             Adair-Rios, Mark                 1
+             Adam, Ronald                     1
+             Adams, Daniel (V)                1
+             Adams, David (VII)               1
+             Adams, Gary (I)                  1
+             Adams, Jacob (I)                 1
+             Adams, Martin (I)                1
+             Adams, R.J.                      1
+             Adams, Robert (I)                1
+             Adams, Robert (IV)               1
+             Adams, Steve (I)                 1
+             Adams, Timothy (I)               1
+             Adcock, Kirk                     1
+             Addis, Richard (I)               1
+             Addison, Mark (I)                1
+             Addison, Walter                  1
+             Adelman, Jason (I)               1
+             Aderneck, Stephen                1
+             Adi, Cesar                       1
+             Adiarte, Patrick                 1
+             Adler, Felix (I)                 1
+             Adler, Frank J.                  1
+             Adly Guirgis, Stephen            1
+             Adonis, Frank                    1
+             Adorf, Mario                     1
+             Adoti, Razaaq                    1
+             Adrian, Bob (I)                  1
+             Adrisani, Emilio                 1
+             Adu, Robinson Frank              1
+             Adway, Dwayne                    1
+             Affleck, Rab                     1
+             Agashe, Mohan                    1
+             Agins, Robert                    1
+             Agnew, Iain                      1
+             Agnew, Spiro                     1
+             Agona, Joel                      1
+             Agoun, Nabil                     1
+             Agrait, Carlos Joshua            1
+             Agress, Harry                    1
+             Agri, Antonio                    1
+             Aguero, Juan Manuel              1
+             Aguilar, Jesus (I)               1
+             Ahamdloo, Hossein                1
+             Ahern, David (I)                 1
+             Ahern, Liam (I)                  1
+             Ahern, Pat                       1
+             Aherne, Brian (I)                1
+             Aherne, Kieran                   1
+             Ahl, Georg (II)                  1
+             Ahlstedt, Börje                  1
+             Ahrens, Christopher (I)          1
+             Aiello III, Danny                1
+             Aiello, Pier Francesco           1
+             Ainley, Richard                  1
+             Airlie, Andrew                   1
+             Airola, Jean-Louis               1
+             Aisenberg, Leonardo              1
+             Ait Fdil Ahmed, Mahamed          1
+             Aitken, Tony (I)                 1
+             Akin, Philip                     1
+             Akinnuoye-Agbaje, Adewale        1
+             Akins, Claude                    1
+             Akiyama, Denis                   1
+             Aksentiy, Yuriy                  1
+             Alaskey, Joe                     1
+             Alba, Juan                       1
+             Alban, Carlo                     1
+             Albanese, Michael (II)           1
+             Albano, John (I)                 1
+             Albenque, Patrick                1
+             Alberman, David                  1
+             Albers, Hans                     1
+             Albert, Greg (I)                 1
+             Albert, Steve (I)                1
+             Albertini, Michel                1
+             Albertson, Frank (I)             1
+             Albertson, Jack                  1
+             Albiez, Lars                     1
+             Albinet, Vasile                  1
+             Albrecht, Richard (II)           1
+             Alcaraz, Hermenegildo            1
+             Alcazar, Christophe              1
+             Alcaïs, Yves                     1
+             Alciatore, Henri                 1
+             Alcíbar, Miguel                  1
+             Alcón, Alfredo                   1
+             Alda, Alan                       1
+             Alden, Eric (I)                  1
+             Alder, Don                       1
+             Aldridge, Eddie                  1
+             Aled, Gruffudd                   1
+             Alekan, Henri                    1
+             Aleksandrov, Grigori             1
+             Ales, John                       1
+             Alessi, J.T.                     1
+             Alessi, Joseph (I)               1
+             Alexander, Ben (I)               1
+             Alexander, Brett (I)             1
+             Alexander, Bruno (I)             1
+             Alexander, Carmen J.             1
+             Alexander, David James           1
+             Alexander, Jace                  1
+             Alexander, Kenny                 1
+             Alexander, Richard D.            1
+             Alexandrov, Constantin           1
+             Alexeiew, Walerij J.             1
+             Algora, Francisco                1
+             Ali Naderi, Ghorban              1
+             Alia, Dritan                     1
+             Aljinovic, Boris                 1
+             Allain, Jean-Pierre              1
+             Allan, Dick                      1
+             Allan, Richie                    1
+             Alland, William                  1
+             Alldredge, Michael               1
+             Alleff, Tony                     1
+             Allen, Arthur B.                 1
+             Allen, Brad (I)                  1
+             Allen, Carl (I)                  1
+             Allen, David (XI)                1
+             Allen, Doug (II)                 1
+             Allen, Edward (IV)               1
+             Allen, Edward (V)                1
+             Allen, Ivan (I)                  1
+             Allen, John Edward               1
+             Allen, Keith (I)                 1
+             Allen, Michael (VIII)            1
+             Allen, Ray (V)                   1
+             Allen, Timothy (I)               1
+             Allen, Todd (I)                  1
+             Allen, Tommy (I)                 1
+             Allen, Woody                     1
+             Alliger, Richard                 1
+             Allison, Bart                    1
+             Allison, Frankie J.              1
+             Allman, Sheldon                  1
+             Allums, Jeffrey                  1
+             Almodóvar, Agustín               1
+             Almont, Tony                     1
+             Altuna, Robert                   1
+             Alvarado, Sergio Ortega          1
+             Alvarez, Andy                    1
+             Alvarez, George (I)              1
+             Alvin, Martin                    1
+             Amador, Antoine                  1
+             Amandes, Tom                     1
+             Amar, Mahana                     1
+             Ambrose, Steve                   1
+             Amedori, John Patrick            1
+             Amendola, Tony (I)               1
+             Amidou                           1
+             Aminian, Ahmed                   1
+             Amirkhan, Jon                    1
+             Amrich, Daniel E.                1
+             Amru, Kiran                      1
+             Ananins, Michael                 1
+             Ananishnov, Aleksei              1
+             Ancelin, Cyril                   1
+             Ancell, Kevin 'Tiny'             1
+             Anderberg, Bertil                1
+             Anders, Dan (I)                  1
+             Anders, Jamie                    1
+             Andersen, Jürgen                 1
+             Anderson III, Haskell V.         1
+             Anderson, Andy (II)              1
+             Anderson, Arthur (II)            1
+             Anderson, Carl (II)              1
+             Anderson, David (I)              1
+             Anderson, Dennis (II)            1
+             Anderson, Dion (I)               1
+             Anderson, Eddie 'Rochester'      1
+             Anderson, Eric (IV)              1
+             Anderson, Erich (I)              1
+             Anderson, Ernest (III)           1
+             Anderson, Kenneth (I)            1
+             Anderson, Kevin (I)              1
+             Anderson, Stanley                1
+             Andersson, Magnus (I)            1
+             Anderton, Chris                  1
+             Andrade, Roberto (I)             1
+             Andre, Charles (II)              1
+             Andreen, Steve                   1
+             Andrei, Damir                    1
+             Andrejevic, Kosta                1
+             Andreoli, Pao Pei                1
+             Andrews, A. Russell              1
+             Andrews, Anthony (I)             1
+             Andrews, Brian (I)               1
+             Andrews, David (I)               1
+             Andrews, James (I)               1
+             Andrews, Naveen                  1
+             Andrews, Patrick (II)            1
+             Andric, Branko                   1
+             André, François (I)              1
+             André, Michel (II)               1
+             Andújar, Jordi                   1
+             Angarano, Michael                1
+             Angelini-Rota, Camillo           1
+             Angelo, Michael (I)              1
+             Angrisano, Franco                1
+             Angulo, Álex                     1
+             Angus, Colin (I)                 1
+             Anholt, Christien                1
+             Annabi, Noureddine               1
+             Annan, Jotham                    1
+             Ansari, Ahmad                    1
+             Ant                              1
+             Ant, Adam                        1
+             Anthony, Dave (IV)               1
+             Anthony, Marc (I)                1
+             Antin, Steve                     1
+             Antonelli, Roberto               1
+             Antoni, George                   1
+             Antoni, Maurice                  1
+             Antonio Gades, Compañía          1
+             Antonio, Emidio                  1
+             Antonio, Jim                     1
+             Antoniou, Fiv                    1
+             Antrobus, David                  1
+             Aponte, Jose                     1
+             Applebaum, Bill (I)              1
+             Applegate, Royce D.              1
+             Appleton, Bev                    1
+             Appleton, Dudi                   1
+             Aquilino, Frank                  1
+             Arana, Tomas                     1
+             Arance, William L.               1
+             Arbogast, Bob                    1
+             Arbona, Gilles                   1
+             Arcand, Gabriel                  1
+             Arcaro, Laurent                  1
+             Arceri, John                     1
+             Archer, Steve (I)                1
+             Ardoin, Brett                    1
+             Arent, Eddi                      1
+             Argo, Victor                     1
+             Argue, David                     1
+             Arias, Imanol                    1
+             Arimura, Jun                     1
+             Aristotle, Augusto               1
+             Arkin, Adam                      1
+             Arkin, Anthony                   1
+             Arkin, David                     1
+             Arkin, Michael (I)               1
+             Arledge, John                    1
+             Armitage, Graham                 1
+             Armour, Norman                   1
+             Armstead, John                   1
+             Armstrong, Alun                  1
+             Armstrong, David (VII)           1
+             Armstrong, Neil (I)              1
+             Armstrong, Robert (I)            1
+             Arnold, Chris (I)                1
+             Arnold, Edward (I)               1
+             Arnold, Fredric                  1
+             Arnold, Madison                  1
+             Arnold, Robert (XI)              1
+             Arnon, Mordecai                  1
+             Arnott, Mark (I)                 1
+             Aronofsky, Abraham               1
+             Arquette, David                  1
+             Arterton, Jon                    1
+             Arthur, Robert (I)               1
+             Artiste, Roman                   1
+             Artura, Michael                  1
+             Asanti, Pat                      1
+             Ashby, Michael                   1
+             Ashiq, Mohammed                  1
+             Ashley, David (I)                1
+             Ashley, William                  1
+             Ashman, Mark                     1
+             Ashmore, Peter                   1
+             Ashton, Joseph                   1
+             Askew, Luke                      1
+             Aspegren, Chuck                  1
+             Assad, Richard                   1
+             Assante, Armand                  1
+             Assunção, António                1
+             Astaire, Fred                    1
+             Astredo, Humbert                 1
+             Atanassov, Atanass               1
+             Atard, Peter                     1
+             Ates, Roscoe                     1
+             Atherton, Dan (I)                1
+             Athey, Ron                       1
+             Atkins, Alan                     1
+             Atkins, Sharif                   1
+             Atkinson III, Hal Fort           1
+             Attenborough, Richard            1
+             Atwood, Marc (I)                 1
+             Atô, Kai                         1
+             Auberjonois, Rene                1
+             Aubert, Christian (I)            1
+             Aufair, Maurice                  1
+             Aufiery, Joe                     1
+             Austell, Jan                     1
+             Austin, Mark (I)                 1
+             Austin, Paul (I)                 1
+             Autheman, Marc                   1
+             Auzel, Maurice                   1
+             Avenall, Mike                    1
+             Avery, James (I)                 1
+             Ayala, Guillermo                 1
+             Aycock, Jim                      1
+             Ayik, Familie                    1
+             Aylmer, Felix                    1
+             Ayral, Necdet Mahfi              1
+             Ayres, Sydney                    1
+             Ayrton, Randle                   1
+             Azeff, Michael                   1
+             Azizi, Rahi                      1
+             Aïssa, Mounir                    1
+             Babin, Hugh Joseph               1
+             Bacarella, Mike                  1
+             Bachmann, Conrad                 1
+             Bacon, Norman                    1
+             Badalucco, Michael               1
+             Baer Jr., Max                    1
+             Baerg, Jason (I)                 1
+             Bahary, Bosnali                  1
+             Baikie, Peter                    1
+             Bailey, D'Army                   1
+             Bailey, Joel (I)                 1
+             Bailey, Mark Chandler            1
+             Bailey, Peter (II)               1
+             Bailey, Van                      1
+             Baily, Chris (I)                 1
+             Bain, Ron                        1
+             Bairos, Gary                     1
+             Bajaj, Riju                      1
+             Baker, Chuck (III)               1
+             Baker, Damani                    1
+             Baker, Frank (III)               1
+             Baker, Rupert                    1
+             Baker, Simon (III)               1
+             Baker, Todd (IV)                 1
+             Baker, Travis (I)                1
+             Bakula, Scott                    1
+             Balai, Hassein                   1
+             Balan, Ovidiu                    1
+             Balducci, Franco                 1
+             Baldwin, Adam (I)                1
+             Bale, Christian                  1
+             Ball, Ray (I)                    1
+             Ball, Sam (IV)                   1
+             Ball, Vincent (I)                1
+             Ballar, Alex                     1
+             Ballog, Edward                   1
+             Balsam, Martin                   1
+             Balsim, Eric                     1
+             Balthazar, Jean-Michel           1
+             Bamji, Firdous                   1
+             Bancroft, George (IV)            1
+             Bandyopadhyay, Tushar            1
+             Banerjee, Haren                  1
+             Banerjee, Lalchand               1
+             Bang-Hansen, Arne                1
+             Banks, Boyd                      1
+             Barban, Jean-Claude              1
+             Barber, Charles (I)              1
+             Barberini, Urbano                1
+             Barbi, Vincent                   1
+             Barbou, Jean-Pierre              1
+             Barcis, Artur                    1
+             Bardini, Aleksander              1
+             Barillaro, William               1
+             Barish, Todd                     1
+             Barker, Edhem                    1
+             Barlow, John Perry               1
+             Barlow, Tim (I)                  1
+             Barnes, Barry (I)                1
+             Barnes, Jonathan (I)             1
+             Barnett, Angus                   1
+             Barney, Jay                      1
+             Barnitt, Roy                     1
+             Baron, Sandy (I)                 1
+             Barouh, Pierre                   1
+             Barr, Jean-Marc (I)              1
+             Barr, Russell                    1
+             Barrault, Jean-Louis             1
+             Barray, Gérard                   1
+             Barre Astich, Martin             1
+             Barrington, Tom                  1
+             Barris, Richard                  1
+             Barrish, Jerry                   1
+             Barron, Jude                     1
+             Barrows, Henry A.                1
+             Barry, Alan                      1
+             Barry, Don 'Red'                 1
+             Barry, Jason (I)                 1
+             Barry, Neill (I)                 1
+             Barry, Raymond J.                1
+             Barry, Thom                      1
+             Barry, Tony (I)                  1
+             Barrymore, John (I)              1
+             Barrymore, Lionel                1
+             Bartel, José                     1
+             Bartik, Oldrich                  1
+             Barton, Craig (II)               1
+             Barton, Rodger                   1
+             Basaraba, Gary                   1
+             Basco, Dion                      1
+             Bashe, Mate                      1
+             Basile, Joe (I)                  1
+             Basinger, John                   1
+             Bass, Ben                        1
+             Bass, Greg (I)                   1
+             Bass, Ronald                     1
+             Bassi, Leo                       1
+             Bateman, Dennis (I)              1
+             Baumhauer, Falk                  1
+             Baxter, Charles Thomas           1
+             Beal, John (I)                   1
+             Beals, Stephen                   1
+             Bean, Sean                       1
+             Beasley, John (I)                1
+             Beatty, Warren (I)               1
+             Beauvois, Xavier                 1
+             Becher, John C.                  1
+             Beck, Billy (I)                  1
+             Beck, John (II)                  1
+             Beckel, Graham                   1
+             Becker, Ben (I)                  1
+             Becker, Gerry                    1
+             Beckett, Stephen (I)             1
+             Beckford, Tyson                  1
+             Beckley, William                 1
+             Beckman, Henry                   1
+             Beckwith, William                1
+             Bedoya, Alfonso                  1
+             Beecham, Reg                     1
+             Beery, Noah (I)                  1
+             Bekjarev, Ivan                   1
+             Belchamber, Barry                1
+             Belfquin, Mohammed               1
+             Belfrage, Crispian               1
+             Belgrader, Andre                 1
+             Belhaj Kacem, Mehdi              1
+             Bell, Gene                       1
+             Bellaver, Harry                  1
+             Bellini, Massimo                 1
+             Bellows, Gil                     1
+             Beltrán, Guillermo (I)           1
+             Bemer, Garrett                   1
+             Benatar, Dennis T.               1
+             Bender, Russ                     1
+             Bennent, Heinz                   1
+             Bennett, Andrew (I)              1
+             Bennett, Bruce (I)               1
+             Bennett, Joseph (III)            1
+             Bennett, Ken (I)                 1
+             Benoit, Dylon                    1
+             Benrath, Martin                  1
+             Benskin, Tyrone                  1
+             Bentivoglio, Fabrizio            1
+             Benton, Mark                     1
+             Bercovici, Luca                  1
+             Beresford, Simon (I)             1
+             Berfield, Barry                  1
+             Bergonhe, Denis                  1
+             Berke, Ed                        1
+             Berling, Charles                 1
+             Bernard, Denis                   1
+             Berry, Matt (I)                  1
+             Berry, Sam (I)                   1
+             Berry, Todd (I)                  1
+             Berryman, Michael                1
+             Bershevitz, Vladimir             1
+             Bertin, Gaston                   1
+             Bess, Big Jeff                   1
+             Bestetti, Luca                   1
+             Bettles, Thomas                  1
+             Beuer, Miroslaw                  1
+             Bevan, Anthony                   1
+             Bevan, Billy                     1
+             Bexton, Nathan                   1
+             Beyrand, Gérard                  1
+             Bezace, Didier                   1
+             Bielski, Jaroslaw                1
+             Biggerstaff, Sean                1
+             Bikel, Theodore                  1
+             Bilis, Teddy                     1
+             Billeter, Ken                    1
+             Billingsley, Pat                 1
+             Billson, Felix                   1
+             Bilotta, Bruno                   1
+             Bionci, Nino                     1
+             Birkin, Ned                      1
+             Birmingham, Karl                 1
+             Birns, Bruce                     1
+             Bissell, Whit                    1
+             Bisson, Jean-Pierre              1
+             Bitskey, Tibor                   1
+             Bjørnsson, Fredbjørn             1
+             Bl, Duong                        1
+             Black, Lucas (II)                1
+             Blackwell, Paul (I)              1
+             Blades, Rubén                    1
+             Blake, Geoffrey                  1
+             Blake, Larry J.                  1
+             Blake, Robert (I)                1
+             Blanc, Matéo                     1
+             Blanchar, Pierre                 1
+             Blanche, Francis                 1
+             Blankshine, Robert               1
+             Blanton, Arell                   1
+             Blossom, Roberts                 1
+             Blum, Jack (I)                   1
+             Boa, Bruce                       1
+             Boas, John                       1
+             Bodrov Jr., Sergey               1
+             Bodson, Frédéric                 1
+             Bogart, Humphrey                 1
+             Bokma, Pierre                    1
+             Bolam, James                     1
+             Boles, Eric                      1
+             Boman, Mirko                     1
+             Bon Jovi, Jon                    1
+             Bonanova, Fortunio               1
+             Bond, Bryce                      1
+             Bond, Rudy                       1
+             Bond, Steve (I)                  1
+             Bonzo (IV)                       1
+             Boone Junior, Mark               1
+             Borden, Eugene                   1
+             Bordier, Patrick                 1
+             Boretski, Peter                  1
+             Borgnine, Ernest                 1
+             Borisoff, Devon Cole             1
+             Borsz, Pete                      1
+             Boston, Michael                  1
+             Boswell Sr., Donnie              1
+             Bottoms, Sam (I)                 1
+             Bouise, Jean                     1
+             Bourg, John                      1
+             Bourgeois, John (I)              1
+             Bouteille, Romain                1
+             Bowe, Pete                       1
+             Bower, Tom (I)                   1
+             Bowles, Peter (I)                1
+             Boyar, Sully                     1
+             Boyce, Brandon                   1
+             Boyd, Cameron                    1
+             Boyer, Charles (I)               1
+             Boyle, Brad (I)                  1
+             Bozian, Jamie                    1
+             Bradshaw, Michael (I)            1
+             Brady, P.J.                      1
+             Braham, Lionel                   1
+             Branagh, Kenneth                 1
+             Branaman, Rustam                 1
+             Brand, Roland                    1
+             Brandon, Mark (I)                1
+             Branner, Charles                 1
+             Brasselle, Keefe                 1
+             Brazeau, Jay                     1
+             Bresliski, Ljupco                1
+             Breuer, Lee                      1
+             Breuler, Robert                  1
+             Bridgers, Sean                   1
+             Bridges, Lloyd (I)               1
+             Brill, Steven (I)                1
+             Brimble, Ian                     1
+             Britt, Rod                       1
+             Brock, Benjamin (I)              1
+             Brockett, Don                    1
+             Brodie, Steve (I)                1
+             Brody, Adrien                    1
+             Brody, Raymond                   1
+             Brolin, Josh                     1
+             Bronson, Charles (I)             1
+             Brooks, Conrad                   1
+             Brown, B.J. (I)                  1
+             Brown, Clancy (I)                1
+             Brown, Garrett M.                1
+             Brown, Jack (VII)                1
+             Brown, Lawrence (I)              1
+             Brown, Marcus Lyle               1
+             Brown, Stanley (I)               1
+             Brown, Wally (I)                 1
+             Brunelle, Thomas                 1
+             Buchanan, Edgar                  1
+             Buckingham, Forry                1
+             Buckingham, Robert               1
+             Bucossi, Peter                   1
+             Bugallo, Celso                   1
+             Bui, Tuong Trac                  1
+             Bunker, Edward                   1
+             Burke, Walter (I)                1
+             Burks II, Willis                 1
+             Burney, Harry                    1
+             Burton, Clarence                 1
+             Burton, Richard (I)              1
+             Burton, Warren                   1
+             Bush, Billy Green                1
+             Butler, Gordon                   1
+             Butler, Paul (I)                 1
+             Buttons, Red                     1
+             Butts, Billy                     1
+             Byrd, William 'Buddy'            1
+             Byrne, Cillian (I)               1
+             Byrne, Gabriel                   1
+             Byron, Arthur                    1
+             Cady, Frank                      1
+             Cain, William (II)               1
+             Calindri, Ernesto                1
+             Callahan, John (I)               1
+             Calleia, Joseph                  1
+             Callow, Simon                    1
+             Cameron, David (I)               1
+             Camuccio, Andrew                 1
+             Cao, Jiong                       1
+             Cao, Qugen                       1
+             Cao, Zhengyin                    1
+             Capaldi, Peter                   1
+             Capodice, John                   1
+             Caramitru, Ion                   1
+             Carette, Julien                  1
+             Carlson, Chris (VII)             1
+             Carlson, Richard (I)             1
+             Carlton, Rob                     1
+             Carpenter, Willie C.             1
+             Carson, Charles (I)              1
+             Carson, Jack (I)                 1
+             Carson, Shawn (I)                1
+             Cassidy, Patrick (I)             1
+             Casson, Lewis                    1
+             Catlett, Walter                  1
+             Cavestani, Frank                 1
+             Cazale, John                     1
+             Cecchi, Carlo (I)                1
+             Cervi, Gino                      1
+             Chaim, Richard                   1
+             Chan, Greg                       1
+             Chang, Richard (II)              1
+             Chaplin, Ben                     1
+             Chapman, Zach                    1
+             Chen, Chao-jung                  1
+             Chen, Kaige                      1
+             Chen, Zhigang (I)                1
+             Cheung, Leslie                   1
+             Chevrier, Arno                   1
+             Chitty, Erik                     1
+             Chouchanian, Jack                1
+             Cilenti, Enzo                    1
+             Cintra, Luís Miguel              1
+             Ciron, Jacques                   1
+             Clarke, Gage                     1
+             Clarke, Gordon B.                1
+             Clive, E.E.                      1
+             Clow, Stuart                     1
+             Cohn, Harry (II)                 1
+             Cole, Sidney (II)                1
+             Cole, Todd (I)                   1
+             Coleman, Brady                   1
+             Coleman, Charles (I)             1
+             Coleman, Dabney                  1
+             Collingwood, Peter               1
+             Collins, Bill (I)                1
+             Colomb, Christoph                1
+             Cong, Xiao                       1
+             Conkel, Jeff                     1
+             Connolly, Walter                 1
+             Constantine, Eddie               1
+             Conte, John (I)                  1
+             Cooksey, Curtis                  1
+             Cooper, Gary (I)                 1
+             Coote, Robert                    1
+             Coppens, Staf                    1
+             Correa, Rúbens                   1
+             Corrigan, Lloyd                  1
+             Cowles, Jules                    1
+             Coyote, Peter                    1
+             Crane, Frank Hall                1
+             Cranitch, Lorcan                 1
+             Crisp, Donald (I)                1
+             Cunliffe, Freddie                1
+             Cunningham, Danny (I)            1
+             Currie, Michael (I)              1
+             Cushing, Peter                   1
+             Cuthbertson, Allan               1
+             D'Onofrio, Vincent               1
+             Da Silva, Howard                 1
+             Dahan, Armand                    1
+             Dane, Shelton                    1
+             Dann, Gene                       1
+             Davalos, Richard                 1
+             Davies, Jeremy (I)               1
+             Davis, Miles (I)                 1
+             Davy, Claude                     1
+             De Rossi, Massimo (I)            1
+             Dekker, Albert                   1
+             Devine, Andy (I)                 1
+             Diercks, Erich                   1
+             Dixon, Ivan                      1
+             Dióssy, Gábor                    1
+             Dolenz, George                   1
+             Donovan, Martin (II)             1
+             Dooley, Paul                     1
+             Douglas, Kirk (I)                1
+             Drouot, Jean-Claude              1
+             Eady, Paul                       1
+             Eidsvold, Gard B.                1
+             Esmond, Carl                     1
+             Espinosa, Annie                  1
+             Farnum, Franklyn                 1
+             Ferrell, Bill                    1
+             Fierstein, Harvey                1
+             Fischnaller, Eddie               1
+             Fix, Paul                        1
+             Forsythe, Henderson              1
+             Franz, Dennis (I)                1
+             French, Charles K.               1
+             Friedman, Steven Mark            1
+             Gambon, Michael                  1
+             Gameau, Damon                    1
+             Gao, Enman                       1
+             Gao, Yang (I)                    1
+             Garfunkel, Art                   1
+             Gerranio, Pierre                 1
+             Ghalandari, Parvaneh             1
+             Girolami, Ennio                  1
+             Glenn, Roy                       1
+             Gray, Billy (I)                  1
+             Greenleaf, Mace                  1
+             Grey, Joel                       1
+             Griffitts, Todd                  1
+             Grinko, Nikolay (I)              1
+             Guyer, Murphy                    1
+             Han, Si                          1
+             Hare, Will (I)                   1
+             Hayashi, Kan                     1
+             Healy, Annesley                  1
+             Hersholt, Jean                   1
+             Holloway, Stanley                1
+             Huang, Zhiming (I)               1
+             Ichihara, Kiyohiko               1
+             Ichikawa, Danko                  1
+             Jackson, Joshua (I)              1
+             Jacobi, Ernst                    1
+             Johnson, Andrea (V)              1
+             Kardos, Derrick                  1
+             Kearns, Michael (I)              1
+             Kellogg, John (I)                1
+             Lang, Fritz (I)                  1
+             Mann, Gabriel (I)                1
+             Marvin, Lee (I)                  1
+             Méliès, Georges                  1
+             Niu, Xingli                      1
+             Porten, Franz                    1
+             Rezvani, Serge                   1
+             Shweta (I)                       1
+             Zhang, Zhigang (I)               1
+             de Juan, Jorge                   1
+             de Keyser, David                 1
+             de Montemas, Damian              1
+             de la Cruz, Nicolas              1
+Family       Albertson, Jack                  1
+             Ames, Leon                       1
+             Andrei, Damir                    1
+             Bolger, Ray                      1
+Fantasy      Atwill, Lionel                   3
+             Agar, John                       2
+             Adakai-Nez, Randy                1
+             Ankrum, Morris                   1
+             Arntzen, David                   1
+             Assad, Richard                   1
+             Aubrey, James                    1
+             Balkay, Géza                     1
+             Bearden, James (I)               1
+             Bennes, John                     1
+             Byrne, Robert (I)                1
+             Cavanaugh, Michael (I)           1
+             Coulson, Thomas                  1
+             Cross, Roger R.                  1
+             Curtis, Donald                   1
+             Denton, Scot                     1
+Film-Noir    Abbott, John (I)                 1
+             Allan, Richard (I)               1
+             Baker, Art                       1
+             Breuer, Siegfried                1
+History      Anderson, James (I)              1
+Horror       Allen, Anthony (I)               2
+             Andrews, Brian (I)               2
+             Arness, James                    2
+             Atkins, Tom (I)                  2
+             Bellamy, Ned                     2
+             Braha, Herbie                    2
+             Aarniokoski, Douglas             1
+             Aasland, Derek                   1
+             Abadal, Ignasi                   1
+             Abbott, Bruce (I)                1
+             Abbott, Jamie (I)                1
+             Abercrombie, Ian                 1
+             Abney, William                   1
+             Abraham, F. Murray               1
+             Abrahams, Doug                   1
+             Abramov, Oleg                    1
+             Abuse, Bob                       1
+             Ace (XVII)                       1
+             Adair-Rios, Mark                 1
+             Adam, Joel                       1
+             Adam, Ronald                     1
+             Adams, Ash (I)                   1
+             Adams, Mason (I)                 1
+             Adams, T.C. (I)                  1
+             Adams, Willie (I)                1
+             Addobbati, Giuseppe              1
+             Adonis, Frank                    1
+             Adriaans, Mark                   1
+             Affleck, Ben                     1
+             Agar, John                       1
+             Albertson, Frank (I)             1
+             Albright, Dan (I)                1
+             Alighiero, Carlo                 1
+             Allan, Conrad (I)                1
+             Allen, Gary (I)                  1
+             Allen, Jeffrey (I)               1
+             Allen, Patrick (I)               1
+             Almoney, Keith                   1
+             Alquist, Jim                     1
+             Altamirano, Pedro                1
+             Altman, John (II)                1
+             Amick, Ryan Paul                 1
+             Andelin, James                   1
+             Anderson, Erich (I)              1
+             Anderson, Sam (I)                1
+             Anderson, Steven (II)            1
+             Andersson, Kris                  1
+             Andreu, Simón                    1
+             Andrews, David (I)               1
+             Andrews, Tod (I)                 1
+             Angus, Forbes                    1
+             Anthony, Carl (I)                1
+             Antoni, George                   1
+             Aprea, John                      1
+             Arbus, Allan                     1
+             Archard, Bernard (I)             1
+             Archer, John (I)                 1
+             Aresco, Joey                     1
+             Argento, Dario                   1
+             Armendáriz Jr., Pedro            1
+             Armstrong, R.G.                  1
+             Arnold, Lamont                   1
+             Arnold, Mal                      1
+             Arnold, Tom (I)                  1
+             Arquette, David                  1
+             Asada, Tomoo                     1
+             Atterbury, Malcolm               1
+             Austine, Ryan                    1
+             Avary, Eric                      1
+             Avery, Val                       1
+             Avon, Roger                      1
+             Avram, Chris                     1
+             Axelrod, Robert (I)              1
+             Babbs, O.B.                      1
+             Bacarella, Mike                  1
+             Bachelder, John                  1
+             Badejo, Bolaji                   1
+             Baird, Phillip                   1
+             Baird, Richard                   1
+             Baker, Rupert                    1
+             Bakula, Scott                    1
+             Baldwin, Sidney (I)              1
+             Balfour, Eric                    1
+             Ballard, Terry                   1
+             Banai, Ya'ackov                  1
+             Bannister, Jeffrey (I)           1
+             Barlow, Reginald (I)             1
+             Barri, Barta                     1
+             Barrile, Anthony                 1
+             Barry, Neill (I)                 1
+             Barton, Peter (I)                1
+             Bassale, Gabriel                 1
+             Bates, Ben (I)                   1
+             Baxt, David                      1
+             Baxter, Jerry M.                 1
+             Bayer, Gary                      1
+             Bayldon, Geoffrey                1
+             Beatty, Ned                      1
+             Beckman, John (II)               1
+             Becwar, George                   1
+             Bedrosian, Hunter                1
+             Beebe, Dick                      1
+             Behling, Robert                  1
+             Belgard, Steven                  1
+             Bell, Marshall                   1
+             Belmore, Lionel                  1
+             Ben-Victor, Paul                 1
+             Bennes, John                     1
+             Bennett, Clé                     1
+             Bennett, Jeff (V)                1
+             Bentley, Lamont                  1
+             Benton, Craig                    1
+             Bercovici, Luca                  1
+             Berel, Jean                      1
+             Bergeron, Michael (I)            1
+             Berkeley, Xander                 1
+             Bermel, Pat                      1
+             Bermingham, Thomas               1
+             Bernuth, Charles P.              1
+             Bess, Ardon                      1
+             Best, James (I)                  1
+             Bianchi, Tino                    1
+             Blackwell, Rus                   1
+             Blumenfeld, Alan                 1
+             Boeck, Henri                     1
+             Boeke, Jim (I)                   1
+             Bogart, Keith                    1
+             Bohem, Leslie                    1
+             Bolada, Jorge                    1
+             Boone Junior, Mark               1
+             Botz, Gustav                     1
+             Bradley, Doug (I)                1
+             Bradley, Jordan (I)              1
+             Brand, David (I)                 1
+             Brand, Neville                   1
+             Bremer, Brian                    1
+             Brendon, Nicholas                1
+             Bresson, David                   1
+             Breton, Allen                    1
+             Brighton, Bruce (I)              1
+             Brimley, Wilford                 1
+             Bromberg, J. Edward              1
+             Bronowski, Steven                1
+             Brooke, Michael (III)            1
+             Brooks, Ron (II)                 1
+             Brown, Robert (I)                1
+             Brown, Timothy P.                1
+             Brown, W. Earl                   1
+             Browne, Clarke                   1
+             Browne, Robert Alan              1
+             Browning, Tod                    1
+             Bruce, David (I)                 1
+             Bryant, John (I)                 1
+             Buhr, Gavin                      1
+             Burchinal, William               1
+             Byrne, Gabriel                   1
+             Böhm, Karlheinz (I)              1
+             Cagne, Gil                       1
+             Cannon, Orin                     1
+             Carbone, Antony                  1
+             Carewe, Arthur Edmund            1
+             Carlson, Leslie                  1
+             Carlson, Richard (I)             1
+             Carver, James (I)                1
+             Cassarino, Richard               1
+             Cavett, Dick                     1
+             Chaney Jr., Lon                  1
+             Clark, Bobby (I)                 1
+             Collier, Richard (III)           1
+             Cook Jr., Elisha                 1
+             Coolidge, Philip                 1
+             Cox, Doug (I)                    1
+             D'Ausilio, Enzo                  1
+             Damon, Mark (I)                  1
+             Daniell, Henry                   1
+             Dracup, Robert                   1
+             Fishburne, Laurence              1
+             Flower, George 'Buck'            1
+             Fraser, John (I)                 1
+             Griffin, Bob (II)                1
+             Hedison, David                   1
+             Hewlett, David                   1
+             Hwang, Sin-Hye                   1
+             Kinski, Klaus                    1
+             Redgrave, Michael                1
+Music        Arenberg, Lee                    1
+Musical      American In Paris Ballet, The    1
+             Arnold, Alvin                    1
+             Avalon, Frankie                  1
+             Campbell, Stuart (I)             1
+             King, Charles (I)                1
+             Toledo, Juan (II)                1
+Mystery      Abuba, Ernest                    1
+             Aiello, Rick                     1
+             Alden, Andrew (I)                1
+             Amodea, Ron J.                   1
+             Amoni, Tony                      1
+             Anchisi, Pier Giovanni           1
+             Anderson, Stanley                1
+             Anzell, Hy                       1
+             Appel, Peter                     1
+             Babatundé, Obba                  1
+             Badalato, T.C.                   1
+             Bader, Terry                     1
+             Bagdasarian, Ross                1
+             Bailey, Raymond (I)              1
+             Barclay, John (I)                1
+             Bassermann, Albert               1
+             Bell, James (I)                  1
+             Bogarde, Dirk                    1
+             Boulton, Matthew (I)             1
+             Broyden, Jim                     1
+             Burrell, Fred                    1
+             Carrillo, Leo                    1
+Romance      Anderson, Gregory W.             1
+             Andrade, Eduardo N.T.            1
+             Barlowe, Sid                     1
+             Boggs, Jason (I)                 1
+             Cabot, Bruce                     1
+             Callahan, Pepe                   1
+             Dyall, Franklin                  1
+             Fairman, Austin                  1
+             Goetzke, Bernhard                1
+Sci-Fi       Adams, Peter (I)                 1
+             Aherne, Patrick                  1
+             Alspaugh, William                1
+             Anderson, Taylor (III)           1
+             Aspel, Richard                   1
+             Assenza, Tony (I)                1
+             Austin, Jimmy (I)                1
+             Badel, Alan                      1
+             Baker, Dylan (I)                 1
+             Balaban, Bob                     1
+             Banionis, Donatas                1
+             Baxter, George (I)               1
+             Dafoe, Willem                    1
+             Edmund, James                    1
+             Marks, Leo (I)                   1
+             Priest, Michael (I)              1
+Short        Aliferis, Andrew                 1
+             Anderson, Robert (XVII)          1
+             Baird, Charlie                   1
+             Cornás, Walter                   1
+             Crespo, Didier                   1
+             Edwards, Henry (I)               1
+             Higgins, Vincent (I)             1
+             La Villa, Mauro                  1
+Thriller     Alpert, Gregory                  1
+             Altman, Richard (I)              1
+             Andréi, Frédéric                 1
+             Apple, Alan                      1
+             Armstrong, Herb (I)              1
+             Arosenius, Per-Axel              1
+             Bacon, Irving                    1
+             Baker, Joe Don                   1
+             Beechner, Ed                     1
+             Bendix, William                  1
+             Benji (III)                      1
+             Benskin, Tyrone                  1
+             Berkeley, Ballard                1
+             Bikila, Abebe                    1
+             Brainville, Yves                 1
+             Chaino                           1
+             Crossett, William                1
+             Dixon, Matthew (I)               1
+             Donath, Ludwig                   1
+             Raoux, Paul                      1
+War          Akins, Claude                    1
+             Alfonso, Maquisard               1
+Western      Adams, Michael (I)               1
+             Adams, Ted (I)                   1
+             Arau, Alfonso                    1
+             Atwater, Barry                   1
+             Bardette, Trevor                 1
+             Barnes, Walter (I)               1
+             Barton, Gregg                    1
+             Bates, R.C.                      1
+             Blanco, Tomás (I)                1
+             Bond, Ward                       1
+             Bottoms, Sam (I)                 1
+             Brega, Mario (I)                 1
+             Butler, Garner                   1
+             Cabot, Sebastian (I)             1
+             Cain, Leon                       1
+             Dekker, Albert                   1
+             La Grasse, Jerome                1
