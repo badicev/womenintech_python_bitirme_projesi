@@ -56,7 +56,7 @@ Film seti analizlerine, görselleştirmelerine ve film arama motoru oluşturulma
 </p>
 
 
-## <details><summary>Veri Ön İşleme (Grafik 1, Grafik 2)*</summary>
+## <details><summary>Veri Ön İşleme (Grafik 1, Grafik 2)</summary>
 <p>
 
 
@@ -81,6 +81,8 @@ Grafik 2:
 
 
 ## Ülkelere göre çekilen film sayısı | Grafik 3, Grafik 4, Grafik 5, Grafik 6, Grafik 7
+
+
 
 Grafik 3:
 <p align="center">
