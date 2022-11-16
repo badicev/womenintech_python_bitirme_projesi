@@ -121,7 +121,7 @@ Grafik 7:
 </details>
 
 
-## Aktörlerin oynadığı film sayısı (Grafik 8)
+## <details><summary>Aktörlerin oynadığı film sayısı (Grafik 8)</summary>
 
 Grafik 8:
 <p align="center">
@@ -133,7 +133,7 @@ Grafik 8:
 </details>
 
 
-## Aktörlerin oynadığı film türleri | Grafik 9, Grafik 10, Grafik11, Grafik12, Grafik13
+## <details><summary>Aktörlerin oynadığı film türleri | Grafik 9, Grafik 10, Grafik11, Grafik12, Grafik13</summary>
 
 Grafik 9:
 <p align="center">
@@ -171,7 +171,7 @@ Grafik 13:
 </p>
 </details>
 
-## Türe göre kadın-erkek aktör sayısı | Grafik 14, Grafik 15, Grafik 16, Grafik17
+## <details><summary>Türe göre kadın-erkek aktör sayısı | Grafik 14, Grafik 15, Grafik 16, Grafik17</summary>
 
 Grafik 14:
 <p align="center">
@@ -204,7 +204,7 @@ Grafik 17:
 </p>
 </details>
 
-## Türlere göre puanlar ve oylar | Grafik 18, Grafik 19
+## <details><summary>Türlere göre puanlar ve oylar | Grafik 18, Grafik 19</summary>
 Grafik 18:
 <p align="center">
 <!--   my-header-img -->
@@ -222,7 +222,7 @@ Grafik 19:
 </p>
 </details>
 
-## Puan ve Oylama Miktarlarına Göre Filmlerin İncelenmesi | Grafik 20, Grafik 21, Grafik 22, Grafik 23
+## <details><summary>Puan ve Oylama Miktarlarına Göre Filmlerin İncelenmesi | Grafik 20, Grafik 21, Grafik 22, Grafik 23</summary>
 
 Grafik 20:
 <p align="center">
@@ -255,7 +255,7 @@ Grafik 23:
 </p>
 </details>
 
-## Film Arama Motoru
+## <details><summary>Film Arama Motoru</summary>
 Grafik 24:
 <p align="center">
 <!--   my-header-img -->
