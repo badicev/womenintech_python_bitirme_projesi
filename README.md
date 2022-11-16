@@ -1,3 +1,11 @@
+<!--   my-header-img -->
+
+<p align="center">
+<!--   my-header-img -->
+<img src="https://github.com/badicev/womenintech_python_bitirme_projesi/blob/main/Resimler/ProjeBanner.png" />
+</p>
+
+
 ## Film Veri Setinin İncelenmesi ve Arama Motoru
 
 
@@ -40,3 +48,234 @@ Film seti analizlerine, görselleştirmelerine ve film arama motoru oluşturulma
 *11-) Puan ve Oylama Miktarlarına Göre Filmlerin İncelenmesi*
 
 *12-) Film Arama Motoru* 
+
+
+<p align="center">
+<!--   my-header-img -->
+<img src="https://github.com/badicev/womenintech_python_bitirme_projesi/blob/main/Resimler/underthemoon.gif" />
+</p>
+
+
+## <details><summary>Veri Ön İşleme (Grafik 1, Grafik 2)</summary>
+<p>
+
+Grafik 1:
+<p align="center">
+<!--   my-header-img -->
+<img src="https://github.com/badicev/womenintech_python_bitirme_projesi/blob/main/Resimler/1.png" />
+</p>
+
+
+Grafik 2:
+<p align="center">
+<!--   my-header-img -->
+<img src="https://github.com/badicev/womenintech_python_bitirme_projesi/blob/main/Resimler/2.png" />
+</p>
+
+
+</details>
+
+
+
+
+ ## <details><summary> Ülkelere göre çekilen film sayısı | Grafik 3, Grafik 4, Grafik 5, Grafik 6, Grafik 7 </summary>
+<p>
+
+
+
+Grafik 3:
+<p align="center">
+<!--   my-header-img -->
+<img src="https://github.com/badicev/womenintech_python_bitirme_projesi/blob/main/Resimler/3.png" />
+</p>
+
+Grafik 4:
+<p align="center">
+<!--   my-header-img -->
+<img src="https://github.com/badicev/womenintech_python_bitirme_projesi/blob/main/Resimler/4.png" />
+</p>
+
+
+Grafik 5:
+<p align="center">
+<!--   my-header-img -->
+<img src="https://github.com/badicev/womenintech_python_bitirme_projesi/blob/main/Resimler/5.png" />
+</p>
+
+
+Grafik 6:
+<p align="center">
+<!--   my-header-img -->
+<img src="https://github.com/badicev/womenintech_python_bitirme_projesi/blob/main/Resimler/6.png" />
+</p>
+
+
+Grafik 7:
+<p align="center">
+<!--   my-header-img -->
+<img src="https://github.com/badicev/womenintech_python_bitirme_projesi/blob/main/Resimler/7.png" />
+</p>
+
+
+</p>
+</details>
+
+
+## <details><summary>Aktörlerin oynadığı film sayısı (Grafik 8)</summary>
+
+Grafik 8:
+<p align="center">
+<!--   my-header-img -->
+<img src="https://github.com/badicev/womenintech_python_bitirme_projesi/blob/main/Resimler/8.png" />
+</p>
+
+</p>
+</details>
+
+
+## <details><summary>Aktörlerin oynadığı film türleri | Grafik 9, Grafik 10, Grafik11, Grafik12, Grafik13</summary>
+
+Grafik 9:
+<p align="center">
+<!--   my-header-img -->
+<img src="https://github.com/badicev/womenintech_python_bitirme_projesi/blob/main/Resimler/9.png" />
+</p>
+
+Grafik 10:
+<p align="center">
+<!--   my-header-img -->
+<img src="https://github.com/badicev/womenintech_python_bitirme_projesi/blob/main/Resimler/10.png" />
+</p>
+
+
+Grafik 11:
+<p align="center">
+<!--   my-header-img -->
+<img src="https://github.com/badicev/womenintech_python_bitirme_projesi/blob/main/Resimler/11.png" />
+</p>
+
+
+Grafik 12:
+<p align="center">
+<!--   my-header-img -->
+<img src="https://github.com/badicev/womenintech_python_bitirme_projesi/blob/main/Resimler/12.png" />
+</p>
+
+
+Grafik 13:
+<p align="center">
+<!--   my-header-img -->
+<img src="https://github.com/badicev/womenintech_python_bitirme_projesi/blob/main/Resimler/13.png" />
+</p>
+
+</p>
+</details>
+
+## <details><summary>Türe göre kadın-erkek aktör sayısı | Grafik 14, Grafik 15, Grafik 16, Grafik17</summary>
+
+Grafik 14:
+<p align="center">
+<!--   my-header-img -->
+<img src="https://github.com/badicev/womenintech_python_bitirme_projesi/blob/main/Resimler/14.png" />
+</p>
+
+
+Grafik 15:
+<p align="center">
+<!--   my-header-img -->
+<img src="https://github.com/badicev/womenintech_python_bitirme_projesi/blob/main/Resimler/15.png" />
+</p>
+
+
+Grafik 16:
+<p align="center">
+<!--   my-header-img -->
+<img src="https://github.com/badicev/womenintech_python_bitirme_projesi/blob/main/Resimler/16.png" />
+</p>
+
+
+Grafik 17:
+<p align="center">
+<!--   my-header-img -->
+<img src="https://github.com/badicev/womenintech_python_bitirme_projesi/blob/main/Resimler/17.png" />
+</p>
+
+
+</p>
+</details>
+
+## <details><summary>Türlere göre puanlar ve oylar | Grafik 18, Grafik 19</summary>
+Grafik 18:
+<p align="center">
+<!--   my-header-img -->
+<img src="https://github.com/badicev/womenintech_python_bitirme_projesi/blob/main/Resimler/18.png" />
+</p>
+
+
+Grafik 19:
+<p align="center">
+<!--   my-header-img -->
+<img src="https://github.com/badicev/womenintech_python_bitirme_projesi/blob/main/Resimler/19.png" />
+</p>
+
+
+</p>
+</details>
+
+## <details><summary>Puan ve Oylama Miktarlarına Göre Filmlerin İncelenmesi | Grafik 20, Grafik 21, Grafik 22, Grafik 23</summary>
+
+Grafik 20:
+<p align="center">
+<!--   my-header-img -->
+<img src="https://github.com/badicev/womenintech_python_bitirme_projesi/blob/main/Resimler/20.png" />
+</p>
+
+
+
+Grafik 21:
+<p align="center">
+<!--   my-header-img -->
+<img src="https://github.com/badicev/womenintech_python_bitirme_projesi/blob/main/Resimler/21.png" />
+</p>
+
+Grafik 22:
+<p align="center">
+<!--   my-header-img -->
+<img src="https://github.com/badicev/womenintech_python_bitirme_projesi/blob/main/Resimler/22.png" />
+</p>
+
+
+Grafik 23:
+<p align="center">
+<!--   my-header-img -->
+<img src="https://github.com/badicev/womenintech_python_bitirme_projesi/blob/main/Resimler/23.png" />
+</p>
+
+
+</p>
+</details>
+
+## <details><summary>Film Arama Motoru</summary>
+Grafik 24:
+<p align="center">
+<!--   my-header-img -->
+<img src="https://github.com/badicev/womenintech_python_bitirme_projesi/blob/main/Resimler/24-aramamotoru.png" />
+</p>
+
+</p>
+</details>
+
+
+
+## <details><summary>BONUS: WordCloud</summary>
+Grafik 25:
+<p align="center">
+<!--   my-header-img -->
+<img src="https://github.com/badicev/womenintech_python_bitirme_projesi/blob/main/Resimler/25.png" />
+</p>
+
+</p>
+</details>
+
+</p>
+</details>
