@@ -49,6 +49,8 @@ Film seti analizlerine, görselleştirmelerine ve film arama motoru oluşturulma
 
 *12-) Film Arama Motoru* 
 
+*13-) Oluşturulmuş metriklere göre analizler*
+
 
 <p align="center">
 <!--   my-header-img -->
@@ -266,9 +268,19 @@ Grafik 24:
 </details>
 
 
+## <details><summary>Oluşturulmuş metriklere göre analizler</summary>
+Grafik 25:
+<p align="center">
+<!--   my-header-img -->
+<img src="https://github.com/badicev/womenintech_python_bitirme_projesi/blob/main/Resimler/26.png" />
+</p>
+
+</p>
+</details>
+
 
 ## <details><summary>BONUS: WordCloud</summary>
-Grafik 25:
+Grafik 26:
 <p align="center">
 <!--   my-header-img -->
 <img src="https://github.com/badicev/womenintech_python_bitirme_projesi/blob/main/Resimler/25.png" />
