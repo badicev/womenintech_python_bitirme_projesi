@@ -265,3 +265,17 @@ Grafik 24:
 </p>
 </details>
 
+
+
+## <details><summary>BONUS: WordCloud</summary>
+Grafik 25:
+<p align="center">
+<!--   my-header-img -->
+<img src="https://github.com/badicev/womenintech_python_bitirme_projesi/blob/main/Resimler/25.png" />
+</p>
+
+</p>
+</details>
+
+</p>
+</details>
