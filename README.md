@@ -56,7 +56,7 @@ Film seti analizlerine, görselleştirmelerine ve film arama motoru oluşturulma
 </p>
 
 
-<details><summary>*Veri Ön İşleme (Grafik 1, Grafik 2)*</summary>
+## <details><summary>Veri Ön İşleme (Grafik 1, Grafik 2)*</summary>
 <p>
 
 
