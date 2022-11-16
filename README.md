@@ -55,6 +55,7 @@ Film seti analizlerine, görselleştirmelerine ve film arama motoru oluşturulma
 <img src="https://github.com/badicev/womenintech_python_bitirme_projesi/blob/main/Resimler/underthemoon.gif" />
 </p>
 
+## Veri Ön İşleme (Grafik 1, Grafik 2)
 
 Grafik 1:
 <p align="center">
@@ -69,6 +70,9 @@ Grafik 2:
 <img src="https://github.com/badicev/womenintech_python_bitirme_projesi/blob/main/Resimler/2.png" />
 </p>
 
+
+
+## Ülkelere göre çekilen film sayısı (Grafik 3, Grafik 4, Grafik 5, Grafik 6, Grafik 7)
 
 Grafik 3:
 <p align="center">
