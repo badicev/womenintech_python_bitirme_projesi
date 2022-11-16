@@ -1,3 +1,10 @@
+<!--   my-header-img -->
+
+<p align="center">
+<!--   my-header-img -->
+<img src="https://github.com/badicev/womenintech_python_bitirme_projesi/blob/main/Resimler/ProjeBanner.png" />
+</p>
+
 ## Film Veri Setinin İncelenmesi ve Arama Motoru
 
 
