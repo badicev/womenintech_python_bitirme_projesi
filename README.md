@@ -78,7 +78,8 @@ Grafik 2:
 
 
 
-## Ülkelere göre çekilen film sayısı | Grafik 3, Grafik 4, Grafik 5, Grafik 6, Grafik 7
+ ## <details><summaryÜlkelere göre çekilen film sayısı | Grafik 3, Grafik 4, Grafik 5, Grafik 6, Grafik 7 </summary>
+<p>
 
 
 
