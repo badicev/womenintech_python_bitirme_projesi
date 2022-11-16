@@ -59,10 +59,6 @@ Film seti analizlerine, görselleştirmelerine ve film arama motoru oluşturulma
 ## <details><summary>Veri Ön İşleme (Grafik 1, Grafik 2)</summary>
 <p>
 
-
-
-
-
 Grafik 1:
 <p align="center">
 <!--   my-header-img -->
@@ -76,8 +72,10 @@ Grafik 2:
 <img src="https://github.com/badicev/womenintech_python_bitirme_projesi/blob/main/Resimler/2.png" />
 </p>
 
-</p>
+
 </details>
+
+
 
 
 ## Ülkelere göre çekilen film sayısı | Grafik 3, Grafik 4, Grafik 5, Grafik 6, Grafik 7
@@ -118,6 +116,10 @@ Grafik 7:
 </p>
 
 
+</p>
+</details>
+
+
 ## Aktörlerin oynadığı film sayısı (Grafik 8)
 
 Grafik 8:
@@ -126,6 +128,8 @@ Grafik 8:
 <img src="https://github.com/badicev/womenintech_python_bitirme_projesi/blob/main/Resimler/8.png" />
 </p>
 
+</p>
+</details>
 
 
 ## Aktörlerin oynadığı film türleri | Grafik 9, Grafik 10, Grafik11, Grafik12, Grafik13
@@ -163,6 +167,8 @@ Grafik 13:
 <img src="https://github.com/badicev/womenintech_python_bitirme_projesi/blob/main/Resimler/13.png" />
 </p>
 
+</p>
+</details>
 
 ## Türe göre kadın-erkek aktör sayısı | Grafik 14, Grafik 15, Grafik 16, Grafik17
 
@@ -194,6 +200,8 @@ Grafik 17:
 </p>
 
 
+</p>
+</details>
 
 ## Türlere göre puanlar ve oylar | Grafik 18, Grafik 19
 Grafik 18:
@@ -208,6 +216,10 @@ Grafik 19:
 <!--   my-header-img -->
 <img src="https://github.com/badicev/womenintech_python_bitirme_projesi/blob/main/Resimler/19.png" />
 </p>
+
+
+</p>
+</details>
 
 ## Puan ve Oylama Miktarlarına Göre Filmlerin İncelenmesi | Grafik 20, Grafik 21, Grafik 22, Grafik 23
 
@@ -238,9 +250,17 @@ Grafik 23:
 <img src="https://github.com/badicev/womenintech_python_bitirme_projesi/blob/main/Resimler/23.png" />
 </p>
 
+
+</p>
+</details>
+
 ## Film Arama Motoru
 Grafik 24:
 <p align="center">
 <!--   my-header-img -->
 <img src="https://github.com/badicev/womenintech_python_bitirme_projesi/blob/main/Resimler/24-aramamotoru.png" />
 </p>
+
+</p>
+</details>
+
