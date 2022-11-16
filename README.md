@@ -5,6 +5,7 @@
 <img src="https://github.com/badicev/womenintech_python_bitirme_projesi/blob/main/Resimler/ProjeBanner.png" />
 </p>
 
+
 ## Film Veri Setinin İncelenmesi ve Arama Motoru
 
 
@@ -47,3 +48,9 @@ Film seti analizlerine, görselleştirmelerine ve film arama motoru oluşturulma
 *11-) Puan ve Oylama Miktarlarına Göre Filmlerin İncelenmesi*
 
 *12-) Film Arama Motoru* 
+
+
+<p align="center">
+<!--   my-header-img -->
+<img src="https://github.com/badicev/womenintech_python_bitirme_projesi/blob/main/Resimler/underthemoon.gif" />
+</p>
