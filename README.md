@@ -15,7 +15,7 @@ Film seti analizlerine, görselleştirmelerine ve film arama motoru oluşturulma
 ## <details><summary>Kullanılan Python Kütüphaneleri ve Modülleri
 </summary>
 
-
+### Kullanılan Python Kütüphaneleri ve Modülleri
 * **patoliib**: Patool tarafından çeşitli arşiv formatları oluşturulabilir, ayıklanabilir, test edilebilir, listelenebilir, aranabilir, karşılaştırılabilir ve yeniden paketlenebilir. 
 * **pandas**: pandas, hızlı, güçlü, esnek ve kullanımı kolay, Python programlama dili üzerine inşa edilen bir açık kaynak veri analizi ve işleme aracıdır.
 * **missingno**:  Eksik verileri tanımlamak ve görselleştirmek için bir kütüphanedir.
@@ -26,7 +26,6 @@ Film seti analizlerine, görselleştirmelerine ve film arama motoru oluşturulma
 * **os**: Bu modül, işletim sistemine bağlı işlevselliği kullanmanın taşınabilir bir yolunu sağlar.
 * **sklearn**: Tahmine dayalı veri analizi için basit ve verimli araçlar sağlayan bir kütüphanedir.
 * **ipywidgets**:Jupyter Widgets Jupyter not defterleri için etkileşimli tarayıcı kontrolleridir.
- 
  </details>
 
 ## <details><summary>İçerik</summary>
