@@ -32,8 +32,9 @@ Film seti analizlerine, görselleştirmelerine ve film arama motoru oluşturulma
 </details>
 
 
-## <details><summary>İçerik</summary>
-<p>
+
+<details>
+  <summary> İçerik </summary>
  
  1-) Kullanılan Kütüphaneler ve Modüller
 
@@ -62,7 +63,7 @@ Film seti analizlerine, görselleştirmelerine ve film arama motoru oluşturulma
 *13-) Film Arama Motoru* 
 
 *14-) Oluşturulmuş metriklere göre analizler*  
-
+</details>
 
 <p align="center">
 <!--   my-header-img -->
