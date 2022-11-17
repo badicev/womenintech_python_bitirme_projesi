@@ -12,9 +12,9 @@
 
 Bu veri setinde Python kullanılarak filmler veri seti incelenmiştir.
 Film seti analizlerine, görselleştirmelerine ve film arama motoru oluşturulmasına yer verilmiştir.
-## <details><summary>Kullanılan Python Kütüphaneleri ve Modülleri
+## <details>Kullanılan Python Kütüphaneleri ve Modülleri
 
-
+<summary>
 ### Kullanılan Python Kütüphaneleri ve Modülleri
 * **patoliib**: Patool tarafından çeşitli arşiv formatları oluşturulabilir, ayıklanabilir, test edilebilir, listelenebilir, aranabilir, karşılaştırılabilir ve yeniden paketlenebilir. 
 * **pandas**: pandas, hızlı, güçlü, esnek ve kullanımı kolay, Python programlama dili üzerine inşa edilen bir açık kaynak veri analizi ve işleme aracıdır.
