@@ -27,29 +27,31 @@ Film seti analizlerine, görselleştirmelerine ve film arama motoru oluşturulma
 ## İçerik
 *1-) Kullanılan Kütüphaneler ve Modüller*
 
-*2-) Dosyanın Hazır Hale Getirilmesi*
+*2-) Veri Seti ve Değişkenler*
 
-*3-) Veri Ön İşleme*
+*3-) Dosyanın Hazır Hale Getirilmesi*
 
-*4-) Ülkelere göre çekilen film sayısı*
+*4-) Veri Ön İşleme*
 
-*5-) Aktörlerin oynadığı film sayısı*   
+*5-) Ülkelere göre çekilen film sayısı*
 
-*6-) Aktörlerin oynadığı film türleri* 
+*6-) Aktörlerin oynadığı film sayısı*   
 
-*7-) Ülkelere göre hangi tür filmlerin çekilmiş?*
+*7-) Aktörlerin oynadığı film türleri* 
 
-*8-) Türe göre kadın-erkek aktör sayısı*
+*8-) Ülkelere göre hangi tür filmlerin çekilmiş?*
 
-*9-) Ülkelere göre puanlar*
+*9-) Türe göre kadın-erkek aktör sayısı*
 
-*10-) Türlere göre puanlar*
+*10-) Ülkelere göre puanlar*
 
-*11-) Puan ve Oylama Miktarlarına Göre Filmlerin İncelenmesi*
+*11-) Türlere göre puanlar*
 
-*12-) Film Arama Motoru* 
+*12-) Puan ve Oylama Miktarlarına Göre Filmlerin İncelenmesi*
 
-*13-) Oluşturulmuş metriklere göre analizler*
+*13-) Film Arama Motoru* 
+
+*14-) Oluşturulmuş metriklere göre analizler*  
 
 
 <p align="center">
