@@ -15,7 +15,7 @@ Film seti analizlerine, görselleştirmelerine ve film arama motoru oluşturulma
 
 
 <details>
-##  <summary> Kullanılan Python Kütüphaneleri ve Modüller</summary>
+  <summary> ### Kullanılan Python Kütüphaneleri ve Modüller</summary>
 
 
 
