@@ -73,6 +73,16 @@ Film seti analizlerine, görselleştirmelerine ve film arama motoru oluşturulma
 </p>
 
 
+
+Bu projede 8 farklı veri seti kullanılarak filmler hakkında detaylı bir analiz yapılmıştır. Ek olarak küçük bir film arama motoru yapılmıştır.
+SistersLab’in Toplum Gönüllüleri Vakfı (TOG) tarafından desteklenen Women in Tech Academy proje katılımcılarından biri olarak akademi bitirme projem olarak hazırlanmıştır. Bu çalışma, ilerleyen aşamalarda daha büyük bir veriyle yapacağım film öneri sistemine çalışma hazırlığı niteliği de taşımaktadır.
+*Veri setlerinden ve içeriğinden kısaca bahsedeceğim.*
+
+
+
+
+
+
 <details><summary>Veri Ön İşleme (Grafik 1, Grafik 2)</summary>
 
 
