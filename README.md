@@ -80,6 +80,15 @@ SistersLab’in Toplum Gönüllüleri Vakfı (TOG) tarafından desteklenen Women
 
 *Veri setlerinden ve içeriğinden kısaca bahsedeceğim.*
 
+* rating.csv
+* prodcompanies.csv
+* movies2actors.csv
+* movies.csv
+* languages.csv
+* genres.csv
+* countries.csv
+* actors.csv
+
 
 
 
