@@ -25,7 +25,7 @@ Film seti analizlerine, görselleştirmelerine ve film arama motoru oluşturulma
 * **sklearn**: Tahmine dayalı veri analizi için basit ve verimli araçlar sağlayan bir kütüphanedir.
 * **ipywidgets**:Jupyter Widgets Jupyter not defterleri için etkileşimli tarayıcı kontrolleridir.
 ## İçerik
-*1-) Kullanılan Kütüphaneler ve Modüller*
+*## <details><summary>Veri Ön İşleme1-) Kullanılan Kütüphaneler ve Modüller</summary>*
 
 *2-) Veri Seti ve Değişkenler*
 
