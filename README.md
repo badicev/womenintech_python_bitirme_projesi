@@ -137,7 +137,7 @@ Grafik 7:
 </details>
 
 
-## <details><summary>Aktörlerin oynadığı film sayısı (Grafik 8)</summary>
+<details><summary>Aktörlerin oynadığı film sayısı (Grafik 8)</summary>
 
 Grafik 8:
 <p align="center">
@@ -145,7 +145,7 @@ Grafik 8:
 <img src="https://github.com/badicev/womenintech_python_bitirme_projesi/blob/main/Resimler/8.png" />
 </p>
 
-</p>
+
 </details>
 
 
