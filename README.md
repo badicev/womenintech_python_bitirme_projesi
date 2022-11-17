@@ -35,6 +35,8 @@ Film seti analizlerine, görselleştirmelerine ve film arama motoru oluşturulma
 
 <details>
   <summary> İçerik </summary>
+  
+### İçerik
  
  1-) Kullanılan Kütüphaneler ve Modüller
 
@@ -72,7 +74,7 @@ Film seti analizlerine, görselleştirmelerine ve film arama motoru oluşturulma
 
 
 ## <details><summary>Veri Ön İşleme (Grafik 1, Grafik 2)</summary>
-<p>
+
 
 Grafik 1:
 <p align="center">
