@@ -73,7 +73,7 @@ Film seti analizlerine, görselleştirmelerine ve film arama motoru oluşturulma
 </p>
 
 
-## <details><summary>Veri Ön İşleme (Grafik 1, Grafik 2)</summary>
+<details><summary>Veri Ön İşleme (Grafik 1, Grafik 2)</summary>
 
 
 Grafik 1:
@@ -95,8 +95,8 @@ Grafik 2:
 
 
 
- ## <details><summary> Ülkelere göre çekilen film sayısı | Grafik 3, Grafik 4, Grafik 5, Grafik 6, Grafik 7 </summary>
-<p>
+ <details><summary> Ülkelere göre çekilen film sayısı | Grafik 3, Grafik 4, Grafik 5, Grafik 6, Grafik 7 </summary>
+
 
 
 
@@ -134,7 +134,6 @@ Grafik 7:
 </p>
 
 
-</p>
 </details>
 
 
@@ -150,7 +149,7 @@ Grafik 8:
 </details>
 
 
-## <details><summary>Aktörlerin oynadığı film türleri | Grafik 9, Grafik 10, Grafik11, Grafik12, Grafik13</summary>
+<details><summary>Aktörlerin oynadığı film türleri | Grafik 9, Grafik 10, Grafik11, Grafik12, Grafik13</summary>
 
 Grafik 9:
 <p align="center">
@@ -185,10 +184,10 @@ Grafik 13:
 <img src="https://github.com/badicev/womenintech_python_bitirme_projesi/blob/main/Resimler/13.png" />
 </p>
 
-</p>
+
 </details>
 
-## <details><summary>Türe göre kadın-erkek aktör sayısı | Grafik 14, Grafik 15, Grafik 16, Grafik17</summary>
+<details><summary>Türe göre kadın-erkek aktör sayısı | Grafik 14, Grafik 15, Grafik 16, Grafik17</summary>
 
 Grafik 14:
 <p align="center">
@@ -218,10 +217,10 @@ Grafik 17:
 </p>
 
 
-</p>
+
 </details>
 
-## <details><summary>Türlere göre puanlar ve oylar | Grafik 18, Grafik 19</summary>
+<details><summary>Türlere göre puanlar ve oylar | Grafik 18, Grafik 19</summary>
 Grafik 18:
 <p align="center">
 <!--   my-header-img -->
@@ -236,10 +235,10 @@ Grafik 19:
 </p>
 
 
-</p>
+
 </details>
 
-## <details><summary>Puan ve Oylama Miktarlarına Göre Filmlerin İncelenmesi | Grafik 20, Grafik 21, Grafik 22, Grafik 23</summary>
+<details><summary>Puan ve Oylama Miktarlarına Göre Filmlerin İncelenmesi | Grafik 20, Grafik 21, Grafik 22, Grafik 23</summary>
 
 Grafik 20:
 <p align="center">
@@ -268,40 +267,37 @@ Grafik 23:
 <img src="https://github.com/badicev/womenintech_python_bitirme_projesi/blob/main/Resimler/23.png" />
 </p>
 
-
-</p>
 </details>
 
-## <details><summary>Film Arama Motoru</summary>
+<details><summary>Film Arama Motoru</summary>
 Grafik 24:
 <p align="center">
 <!--   my-header-img -->
 <img src="https://github.com/badicev/womenintech_python_bitirme_projesi/blob/main/Resimler/24-aramamotoru.png" />
 </p>
 
-</p>
 </details>
 
 
-## <details><summary>Oluşturulmuş metriklere göre analizler</summary>
+ <details><summary>Oluşturulmuş metriklere göre analizler</summary>
 Grafik 25:
 <p align="center">
 <!--   my-header-img -->
 <img src="https://github.com/badicev/womenintech_python_bitirme_projesi/blob/main/Resimler/26.png" />
 </p>
 
-</p>
+
 </details>
 
 
-## <details><summary>BONUS: WordCloud</summary>
+<details><summary>BONUS: WordCloud</summary>
 Grafik 26:
 <p align="center">
 <!--   my-header-img -->
 <img src="https://github.com/badicev/womenintech_python_bitirme_projesi/blob/main/Resimler/25.png" />
 </p>
 
-</p>
+
 </details>
 
 </p>
