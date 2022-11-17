@@ -14,8 +14,8 @@ Bu veri setinde Python kullanılarak filmler veri seti incelenmiştir.
 Film seti analizlerine, görselleştirmelerine ve film arama motoru oluşturulmasına yer verilmiştir.
 
 
-## <details>
-  <summary> Kullanılan Python Kütüphaneleri ve Modüller</summary>
+<details>
+##  <summary> Kullanılan Python Kütüphaneleri ve Modüller</summary>
 
 
 
