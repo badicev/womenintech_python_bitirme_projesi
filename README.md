@@ -405,7 +405,7 @@ __actors.csv__ (8)
  ## Grafik 26:
 <p align="center">
 <!--   my-header-img -->
-<img src="https://github.com/badicev/womenintech_python_bitirme_projesi/blob/main/Resimler/ekstra1.png" />
+<img src="https://github.com/badicev/womenintech_python_bitirme_projesi/blob/main/Resimler/ekstra2.png" />
 </p>
 
  ## Grafik 27:
