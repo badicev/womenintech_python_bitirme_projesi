@@ -283,7 +283,7 @@ __actors.csv__ (8)
 <details><summary>Türe göre kadın-erkek aktör sayısı | Grafik 14, Grafik 15, Grafik 16, Grafik17</summary>
 
   
-##Veri setinin küçük versiyonundaki dağılım incelendi. 
+##  Veri setinin küçük versiyonundaki dağılım incelendi. 
  
 ##  Grafik 14:
 <p align="center">
