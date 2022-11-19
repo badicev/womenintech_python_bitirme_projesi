@@ -146,7 +146,7 @@ __actors.csv__ (8)
 
 
 <details><summary>Veri Ön İşleme (Grafik 1, Grafik 2)</summary>
-
+Verilerdeki eksiklikler ve bağlantıları tespit edildi.
 
 Grafik 1:
 <p align="center">
@@ -169,7 +169,7 @@ Grafik 2:
 
  <details><summary> Ülkelere göre çekilen film sayısı | Grafik 3, Grafik 4, Grafik 5, Grafik 6, Grafik 7 </summary>
 
-
+Yıllara göre film sayısını incelendi.
 
 
 Grafik 3:
@@ -178,12 +178,15 @@ Grafik 3:
 <img src="https://github.com/badicev/womenintech_python_bitirme_projesi/blob/main/Resimler/3.png" />
 </p>
 
+ Ülkelere göre film sayısı incelendi. 
+  
 Grafik 4:
 <p align="center">
 <!--   my-header-img -->
 <img src="https://github.com/badicev/womenintech_python_bitirme_projesi/blob/main/Resimler/4.png" />
 </p>
 
+  İlk 10 ülkede çekilen film sayıları incelendi.
 
 Grafik 5:
 <p align="center">
@@ -191,6 +194,7 @@ Grafik 5:
 <img src="https://github.com/badicev/womenintech_python_bitirme_projesi/blob/main/Resimler/5.png" />
 </p>
 
+ Hme ülkelere hem de yıllara göre film sayıları analiz edildi.
 
 Grafik 6:
 <p align="center">
@@ -198,7 +202,8 @@ Grafik 6:
 <img src="https://github.com/badicev/womenintech_python_bitirme_projesi/blob/main/Resimler/6.png" />
 </p>
 
-
+İlk 10 ülke için pie-chart ile gözlem yapıldı.
+  
 Grafik 7:
 <p align="center">
 <!--   my-header-img -->
@@ -211,6 +216,8 @@ Grafik 7:
 
 <details><summary>Aktörlerin oynadığı film sayısı (Grafik 8)</summary>
 
+  
+ En çok filmde oynayan 20 oyuncu tespit edildi. 
 Grafik 8:
 <p align="center">
 <!--   my-header-img -->
@@ -223,11 +230,15 @@ Grafik 8:
 
 <details><summary>Aktörlerin oynadığı film türleri | Grafik 9, Grafik 10, Grafik11, Grafik12, Grafik13</summary>
 
+  
+Film türleri puanlara göre ülkeler için ayrı ayrı analiz edildi.
 Grafik 9:
 <p align="center">
 <!--   my-header-img -->
 <img src="https://github.com/badicev/womenintech_python_bitirme_projesi/blob/main/Resimler/9.png" />
 </p>
+
+  
 
 Grafik 10:
 <p align="center">
