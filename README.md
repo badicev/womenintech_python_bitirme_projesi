@@ -152,7 +152,7 @@ __actors.csv__ (8)
 
   Verilerdeki eksiklikler ve bağlantıları tespit edildi.
 
-Grafik 1:
+## Grafik 1:
 <p align="center">
 <!--   my-header-img -->
 <img src="https://github.com/badicev/womenintech_python_bitirme_projesi/blob/main/Resimler/1.png" />
