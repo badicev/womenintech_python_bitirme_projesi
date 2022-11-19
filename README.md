@@ -146,7 +146,8 @@ __actors.csv__ (8)
 
 
 <details><summary>Veri Ön İşleme (Grafik 1, Grafik 2)</summary>
-Verilerdeki eksiklikler ve bağlantıları tespit edildi.
+
+  Verilerdeki eksiklikler ve bağlantıları tespit edildi.
 
 Grafik 1:
 <p align="center">
@@ -169,7 +170,8 @@ Grafik 2:
 
  <details><summary> Ülkelere göre çekilen film sayısı | Grafik 3, Grafik 4, Grafik 5, Grafik 6, Grafik 7 </summary>
 
-Yıllara göre film sayısını incelendi.
+
+  Yıllara göre film sayısını incelendi.
 
 
 Grafik 3:
@@ -194,7 +196,7 @@ Grafik 5:
 <img src="https://github.com/badicev/womenintech_python_bitirme_projesi/blob/main/Resimler/5.png" />
 </p>
 
- Hme ülkelere hem de yıllara göre film sayıları analiz edildi.
+ Hem ülkelere hem de yıllara göre film sayıları analiz edildi.
 
 Grafik 6:
 <p align="center">
@@ -218,6 +220,8 @@ Grafik 7:
 
   
  En çok filmde oynayan 20 oyuncu tespit edildi. 
+
+  
 Grafik 8:
 <p align="center">
 <!--   my-header-img -->
@@ -232,6 +236,7 @@ Grafik 8:
 
   
 Film türleri puanlara göre ülkeler için ayrı ayrı analiz edildi.
+  
 Grafik 9:
 <p align="center">
 <!--   my-header-img -->
