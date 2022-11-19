@@ -402,18 +402,25 @@ __actors.csv__ (8)
 <img src="https://github.com/badicev/womenintech_python_bitirme_projesi/blob/main/Resimler/26.png" />
 </p>
 
+  
+ ## Ülkelerin oy sayısına göre dağılımı incelendi. 
  ## Grafik 26:
 <p align="center">
 <!--   my-header-img -->
 <img src="https://github.com/badicev/womenintech_python_bitirme_projesi/blob/main/Resimler/ekstra2.png" />
 </p>
 
+  
+ ## Distribution incelendi.
  ## Grafik 27:
 <p align="center">
 <!--   my-header-img -->
 <img src="https://github.com/badicev/womenintech_python_bitirme_projesi/blob/main/Resimler/eksta2.png" />
 </p>
 
+  
+ ## En popüler türler incelendi.
+  
  ## Grafik 28:
 <p align="center">
 <!--   my-header-img -->
