@@ -14,7 +14,7 @@ Bu veri setinde Python kullanılarak filmler veri seti incelenmiştir.
 Film seti analizlerine, görselleştirmelerine ve film arama motoru oluşturulmasına yer verilmiştir.
 
 
-
+---
 
 <details>
   <summary> Kullanılan Python Kütüphaneleri ve Modüller </summary>
@@ -33,7 +33,7 @@ Film seti analizlerine, görselleştirmelerine ve film arama motoru oluşturulma
 * **ipywidgets**:Jupyter Widgets Jupyter not defterleri için etkileşimli tarayıcı kontrolleridir.
 </details>
 
----
+
 
 <details>
   <summary> İçerik </summary>
