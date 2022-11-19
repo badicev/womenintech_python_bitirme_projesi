@@ -183,7 +183,7 @@ __actors.csv__ (8)
 <img src="https://github.com/badicev/womenintech_python_bitirme_projesi/blob/main/Resimler/3.png" />
 </p>
 
- Ülkelere göre film sayısı incelendi. 
+## Ülkelere göre film sayısı incelendi. 
   
 ## Grafik 4:
 <p align="center">
@@ -191,7 +191,7 @@ __actors.csv__ (8)
 <img src="https://github.com/badicev/womenintech_python_bitirme_projesi/blob/main/Resimler/4.png" />
 </p>
 
-  İlk 10 ülkede çekilen film sayıları incelendi.
+##  İlk 10 ülkede çekilen film sayıları incelendi.
 
 ## Grafik 5:
 <p align="center">
