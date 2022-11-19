@@ -463,5 +463,5 @@ __actors.csv__ (8)
 ---
   
   
-                                                       💙💙💙Teşekkürler SistersLab!💙💙💙
+                                           💙💙💙Teşekkürler SistersLab!💙💙💙
 
