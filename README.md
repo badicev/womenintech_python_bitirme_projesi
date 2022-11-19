@@ -394,12 +394,30 @@ __actors.csv__ (8)
 
  <details><summary>Oluşturulmuş metriklere göre analizler</summary>
 
- ## Kendi oluşturduğum bir metriğe göre ilk 10 film incelendi. 
+ #Kendi oluşturduğum bir metriğe göre ilk 10 film incelendi. 
   
  ## Grafik 25:
 <p align="center">
 <!--   my-header-img -->
 <img src="https://github.com/badicev/womenintech_python_bitirme_projesi/blob/main/Resimler/26.png" />
+</p>
+
+ ## Grafik 26:
+<p align="center">
+<!--   my-header-img -->
+<img src="https://github.com/badicev/womenintech_python_bitirme_projesi/blob/main/Resimler/ekstra1.png" />
+</p>
+
+ ## Grafik 27:
+<p align="center">
+<!--   my-header-img -->
+<img src="https://github.com/badicev/womenintech_python_bitirme_projesi/blob/main/Resimler/eksta2.png" />
+</p>
+
+ ## Grafik 28:
+<p align="center">
+<!--   my-header-img -->
+<img src="https://github.com/badicev/womenintech_python_bitirme_projesi/blob/main/Resimler/ekstra3.png" />
 </p>
 
 
@@ -409,7 +427,7 @@ __actors.csv__ (8)
 <details><summary>BONUS: WordCloud</summary>
   
  ## Başlıkta en çok kullanılan kelimeler tespit edildi.
-## Grafik 26:
+## Grafik 30:
 <p align="center">
 <!--   my-header-img -->
 <img src="https://github.com/badicev/womenintech_python_bitirme_projesi/blob/main/Resimler/25.png" />
