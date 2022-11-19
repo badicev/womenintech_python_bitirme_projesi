@@ -150,7 +150,7 @@ __actors.csv__ (8)
 
 <details><summary>Veri Ön İşleme (Grafik 1, Grafik 2)</summary>
 
-  Verilerdeki eksiklikler ve bağlantıları tespit edildi.
+##   Verilerdeki eksiklikler ve bağlantıları tespit edildi.
 
 ## Grafik 1:
 <p align="center">
@@ -159,7 +159,7 @@ __actors.csv__ (8)
 </p>
 
 
-Grafik 2:
+## Grafik 2:
 <p align="center">
 <!--   my-header-img -->
 <img src="https://github.com/badicev/womenintech_python_bitirme_projesi/blob/main/Resimler/2.png" />
@@ -174,10 +174,10 @@ Grafik 2:
  <details><summary> Ülkelere göre çekilen film sayısı | Grafik 3, Grafik 4, Grafik 5, Grafik 6, Grafik 7 </summary>
 
 
-  Yıllara göre film sayısını incelendi.
+##   Yıllara göre film sayısını incelendi.
 
 
-Grafik 3:
+## Grafik 3:
 <p align="center">
 <!--   my-header-img -->
 <img src="https://github.com/badicev/womenintech_python_bitirme_projesi/blob/main/Resimler/3.png" />
@@ -185,7 +185,7 @@ Grafik 3:
 
  Ülkelere göre film sayısı incelendi. 
   
-Grafik 4:
+## Grafik 4:
 <p align="center">
 <!--   my-header-img -->
 <img src="https://github.com/badicev/womenintech_python_bitirme_projesi/blob/main/Resimler/4.png" />
@@ -193,23 +193,23 @@ Grafik 4:
 
   İlk 10 ülkede çekilen film sayıları incelendi.
 
-Grafik 5:
+## Grafik 5:
 <p align="center">
 <!--   my-header-img -->
 <img src="https://github.com/badicev/womenintech_python_bitirme_projesi/blob/main/Resimler/5.png" />
 </p>
 
- Hem ülkelere hem de yıllara göre film sayıları analiz edildi.
+##  Hem ülkelere hem de yıllara göre film sayıları analiz edildi.
 
-Grafik 6:
+## Grafik 6:
 <p align="center">
 <!--   my-header-img -->
 <img src="https://github.com/badicev/womenintech_python_bitirme_projesi/blob/main/Resimler/6.png" />
 </p>
 
-İlk 10 ülke için pie-chart ile gözlem yapıldı.
+##  İlk 10 ülke için pie-chart ile gözlem yapıldı.
   
-Grafik 7:
+## Grafik 7:
 <p align="center">
 <!--   my-header-img -->
 <img src="https://github.com/badicev/womenintech_python_bitirme_projesi/blob/main/Resimler/7.png" />
@@ -222,10 +222,10 @@ Grafik 7:
 <details><summary>Aktörlerin oynadığı film sayısı (Grafik 8)</summary>
 
   
- En çok filmde oynayan 20 oyuncu tespit edildi. 
+##  En çok filmde oynayan 20 oyuncu tespit edildi. 
 
   
-Grafik 8:
+## Grafik 8:
 <p align="center">
 <!--   my-header-img -->
 <img src="https://github.com/badicev/womenintech_python_bitirme_projesi/blob/main/Resimler/8.png" />
@@ -238,9 +238,9 @@ Grafik 8:
 <details><summary>Aktörlerin oynadığı film türleri | Grafik 9, Grafik 10, Grafik11, Grafik12, Grafik13</summary>
 
   
-Film türleri puanlara göre ülkeler için ayrı ayrı analiz edildi.
+##  Film türleri puanlara göre ülkeler için ayrı ayrı analiz edildi.
   
-Grafik 9:
+## Grafik 9:
 <p align="center">
 <!--   my-header-img -->
 <img src="https://github.com/badicev/womenintech_python_bitirme_projesi/blob/main/Resimler/9.png" />
@@ -248,28 +248,30 @@ Grafik 9:
 
   
 
-Grafik 10:
+## Grafik 10:
 <p align="center">
 <!--   my-header-img -->
 <img src="https://github.com/badicev/womenintech_python_bitirme_projesi/blob/main/Resimler/10.png" />
 </p>
 
 
-Grafik 11:
+## Grafik 11:
 <p align="center">
 <!--   my-header-img -->
 <img src="https://github.com/badicev/womenintech_python_bitirme_projesi/blob/main/Resimler/11.png" />
 </p>
 
 
-Grafik 12:
+## Grafik 12:
 <p align="center">
 <!--   my-header-img -->
 <img src="https://github.com/badicev/womenintech_python_bitirme_projesi/blob/main/Resimler/12.png" />
 </p>
 
 
-Grafik 13:
+ ##  Aktörlerin türlere göre cinsiyetleri analiz edildi.
+
+##  Grafik 13:
 <p align="center">
 <!--   my-header-img -->
 <img src="https://github.com/badicev/womenintech_python_bitirme_projesi/blob/main/Resimler/13.png" />
@@ -280,28 +282,33 @@ Grafik 13:
 
 <details><summary>Türe göre kadın-erkek aktör sayısı | Grafik 14, Grafik 15, Grafik 16, Grafik17</summary>
 
-Grafik 14:
+  
+##Veri setinin küçük versiyonundaki dağılım incelendi. 
+ 
+##  Grafik 14:
 <p align="center">
 <!--   my-header-img -->
 <img src="https://github.com/badicev/womenintech_python_bitirme_projesi/blob/main/Resimler/14.png" />
 </p>
 
 
-Grafik 15:
+##  Grafik 15:
 <p align="center">
 <!--   my-header-img -->
 <img src="https://github.com/badicev/womenintech_python_bitirme_projesi/blob/main/Resimler/15.png" />
 </p>
 
 
-Grafik 16:
+## Grafik 16:
 <p align="center">
 <!--   my-header-img -->
 <img src="https://github.com/badicev/womenintech_python_bitirme_projesi/blob/main/Resimler/16.png" />
 </p>
 
+  
+## Ülkelerin puan ve oy sayısına göre dağılımı incelendi. 
 
-Grafik 17:
+## Grafik 17:
 <p align="center">
 <!--   my-header-img -->
 <img src="https://github.com/badicev/womenintech_python_bitirme_projesi/blob/main/Resimler/17.png" />
@@ -312,14 +319,19 @@ Grafik 17:
 </details>
 
 <details><summary>Türlere göre puanlar ve oylar | Grafik 18, Grafik 19</summary>
-Grafik 18:
+
+## Türlere göre puan sayıları incelendi.
+  
+## Grafik 18:
 <p align="center">
 <!--   my-header-img -->
 <img src="https://github.com/badicev/womenintech_python_bitirme_projesi/blob/main/Resimler/18.png" />
 </p>
 
+  
+#Türlere göre oy sayıları incelendi.
 
-Grafik 19:
+## Grafik 19:
 <p align="center">
 <!--   my-header-img -->
 <img src="https://github.com/badicev/womenintech_python_bitirme_projesi/blob/main/Resimler/19.png" />
@@ -330,29 +342,37 @@ Grafik 19:
 </details>
 
 <details><summary>Puan ve Oylama Miktarlarına Göre Filmlerin İncelenmesi | Grafik 20, Grafik 21, Grafik 22, Grafik 23</summary>
+  
+ ## Oy sayısına göre dağılım incelendi.
 
-Grafik 20:
+## Grafik 20:
 <p align="center">
 <!--   my-header-img -->
 <img src="https://github.com/badicev/womenintech_python_bitirme_projesi/blob/main/Resimler/20.png" />
 </p>
 
+##  Paun sayısına göre dağılım incelendi.
 
-
-Grafik 21:
+## Grafik 21:
 <p align="center">
 <!--   my-header-img -->
 <img src="https://github.com/badicev/womenintech_python_bitirme_projesi/blob/main/Resimler/21.png" />
 </p>
 
-Grafik 22:
+  
+ ## İkisini beraber bir arada görmek için ve ilişkilerini inceleyebilmek için analiz yapıldı.
+## Grafik 22:
 <p align="center">
 <!--   my-header-img -->
 <img src="https://github.com/badicev/womenintech_python_bitirme_projesi/blob/main/Resimler/22.png" />
 </p>
 
-
-Grafik 23:
+## Verimizde aykırı değerler var. Bunları çıkartıp dağılımlarını yeniden inceleyelim. Çok ciddi bir soruna neden olacak aykırı değerler olmadığı için iki şekilde de kullanabiliriz.
+  
+  
+  
+ ## Oy sayılarının kategorik haline göre puan dağılımı incelendi.
+## Grafik 23:
 <p align="center">
 <!--   my-header-img -->
 <img src="https://github.com/badicev/womenintech_python_bitirme_projesi/blob/main/Resimler/23.png" />
@@ -361,7 +381,9 @@ Grafik 23:
 </details>
 
 <details><summary>Film Arama Motoru</summary>
-Grafik 24:
+  
+ ## Film arama motorundan bir görüntüsü:  
+## Grafik 24:
 <p align="center">
 <!--   my-header-img -->
 <img src="https://github.com/badicev/womenintech_python_bitirme_projesi/blob/main/Resimler/24-aramamotoru.png" />
@@ -371,7 +393,10 @@ Grafik 24:
 
 
  <details><summary>Oluşturulmuş metriklere göre analizler</summary>
-Grafik 25:
+
+ #Kendi oluşturduğum bir metriğe göre ilk 10 film incelendi. 
+  
+ ## Grafik 25:
 <p align="center">
 <!--   my-header-img -->
 <img src="https://github.com/badicev/womenintech_python_bitirme_projesi/blob/main/Resimler/26.png" />
@@ -382,7 +407,9 @@ Grafik 25:
 
 
 <details><summary>BONUS: WordCloud</summary>
-Grafik 26:
+  
+ ## Başlıkta en çok kullanılan kelimeler tespit edildi.
+## Grafik 26:
 <p align="center">
 <!--   my-header-img -->
 <img src="https://github.com/badicev/womenintech_python_bitirme_projesi/blob/main/Resimler/25.png" />
