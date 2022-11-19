@@ -394,7 +394,7 @@ __actors.csv__ (8)
 
  <details><summary>Oluşturulmuş metriklere göre analizler</summary>
 
- #Kendi oluşturduğum bir metriğe göre ilk 10 film incelendi. 
+ ## Kendi oluşturduğum bir metriğe göre ilk 10 film incelendi. 
   
  ## Grafik 25:
 <p align="center">
