@@ -82,14 +82,63 @@ SistersLab’in Toplum Gönüllüleri Vakfı (TOG) tarafından desteklenen Women
 
 *Veri setlerinden ve içeriğinden kısaca bahsedeceğim.*
 
-* rating.csv
-* prodcompanies.csv
-* movies2actors.csv
-* movies.csv
-* languages.csv
-* genres.csv
-* countries.csv
-* actors.csv
+__rating.csv__ (1)
+
+* *rank:* Filmin puanını göstermektedir.
+
+* *votes:* Filmin aldığı oy sayısını göstermektedir.
+
+* *distribution:* Oyların dağılımını göstermektedir.
+
+__prodcompanies.csv__ (2)
+
+* *movieid:* Filmlere ait benzersiz kodu ifade etmektedir.
+
+* *name:* Filmi üreten şirketin adını ifade etmektedir.
+
+__movies2actors.csv__ (3)
+
+* *movieid:* Filmlere ait benzersiz kodu ifade etmektedir.
+
+* *actorid:* Aktörlere ait benzersiz kodu ifade etmektedir.
+
+* *as_character:* Oyuncunun hangi karakter rolünde oynadığını göstermektedir.
+
+* *leading:* Roller sırasında kaçıncı sırada olduğunu ifade etmektedir.
+
+__movies.csv__ (4)
+
+* *movieid:* Filmlere ait benzersiz kodu ifade etmektedir.
+
+* *title:* Filmlerin başlığını yani ismini ifade etmektedir.
+
+* *year:* Filmin yayınlandığı yılı ifade etmektedir.
+
+__languages.csv__ (5)
+
+* *movieid:* Filmlere ait benzersiz kodu ifade etmektedir.
+
+* *language:* Filmin hangi dillere uyarlandığını ifade etmektedir.
+
+__genres.csv__ (6)
+
+* *movieid*: Filmlere ait benzersiz kodu ifade etmektedir.
+
+* *genre*: Filmin türünü ifade etmektedir.
+
+__countries.csv__ (7)
+
+* *movieid:* Filmlere ait benzersiz kodu ifade etmektedir.
+
+* *country:* Filmi yapan ülkeyi ifade etmektedir.
+
+__actors.csv__ (8)
+
+* *actorid:* Aktörlere ait benzersiz kodu ifade etmektedir.
+
+* *name:* Aktörlerin adını ve soyadını göstermektedir.
+
+* *sex:* Aktörlerin cinsiyetini göstermektedir.
 
 
 ---
