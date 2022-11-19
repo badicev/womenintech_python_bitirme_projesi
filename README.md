@@ -447,3 +447,11 @@ __actors.csv__ (8)
 </details>
 
 ---
+
+
+<details><summary>İletişim</summary>
+
+🦊 [Linkedin ](https://www.linkedin.com/in/basak-dilara-cevik/)
+🦊 [Medium ](https://medium.com/@basakdilaracevik/)
+🦊 [Diğer Repolarım ](https://github.com/badicev?tab=repositories)
+
